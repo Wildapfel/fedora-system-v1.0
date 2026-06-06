@@ -10,6 +10,6 @@ Exec=toolbox run -c tex-env texstudio
 Type=Application
 Terminal=false
 Categories=Office;
-Icon=/var/home/max-inspiron/Desktop/fedora-silverblue-system/apps/texstudio/TeXstudio_Logo.svg
+Icon=./apps/texstudio/TeXstudio_Logo.svg
 EOF
 
