@@ -1,0 +1,17 @@
+MenuBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=maxpetzold.profile
+
+[General]
+ConfigVersion=1
+
+[Notification Messages]
+CloseAllEmptyTabs=false
+CloseSingleTab=true
+
+[TabBar]
+ExpandTabWidth=true
+
+[UiSettings]
+ColorScheme=
