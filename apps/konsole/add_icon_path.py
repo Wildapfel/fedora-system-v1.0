@@ -1,13 +1,17 @@
+# quick note
+# - flatpaks have a different location ... 
+
 import os
 from pathlib import Path
 
+FLATPAK_DESKTOP_DIR = "/var/lib/flatpak/exports/share/applications"             
 HOME = Path.home()
 PWD = os.getcwd()
 
 new_lines = []
 
 # replace the Icon lines with corresponding Icon path
-with open(f"{HOME}/.local/share/applications/org.kde.konsole.desktop") as fp:
+with open(f"{FLATPAK_DESKTOP_DIR}/org.kde.konsole.desktop", "r") as fp:
     lines = fp.readlines()
     for line in lines:
         line_split = line.split(sep="=")
@@ -19,7 +23,7 @@ with open(f"{HOME}/.local/share/applications/org.kde.konsole.desktop") as fp:
         new_lines.append("=".join(line_split))
 
 # write
-with open(f"{HOME}/.local/share/applications/org.kde.konsole.test.desktop", "w") as fp:
+with open(f"{HOME}/.local/share/applications/org.kde.konsole.desktop", "w") as fp:
     for line in new_lines:
         fp.write(line)
 
