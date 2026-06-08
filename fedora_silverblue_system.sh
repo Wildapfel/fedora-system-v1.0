@@ -5,8 +5,8 @@
 # of the installations.
 
 # gnome extesnions
-./gnome-extensions/installer.sh
-./gnome-extensions/dconf_loader.sh
+./gnome-extensions/installer.sh         # tested
+./gnome-extensions/dconf_loader.sh      # tested
 
 # apps
 ./apps/obsidian/obsidian_installer.sh   # untested
