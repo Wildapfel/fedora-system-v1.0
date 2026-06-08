@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # source
 # https://unix.stackexchange.com/questions/617288/command-line-tool-to-install-gnome-shell-extensions
 
@@ -11,9 +12,8 @@ extensions=(
     https://extensions.gnome.org/extension/3843/just-perfection/
     https://extensions.gnome.org/extension/5489/search-light/
     https://extensions.gnome.org/extension/1460/vitals/
+    https://extensions.gnome.org/extension/8772/soundbar/
 )
-# causing issues
-# https://extensions.gnome.org/extension/8772/soundbar/
 
 for extension in "${extensions[@]}"; do
     EXTENSION_ID=$(curl -s $extension | grep -oP 'data-uuid="\K[^"]+')

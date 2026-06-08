@@ -1,14 +1,18 @@
 #!/bin/bash
 
 # quick note:
-# Just a master script for the orchestration 
-# of the installations. 
+# Just a master script for the orchestration
+# of the installations.
 
+# gnome extesnions
+./gnome-extensions/installer.sh
+./gnome-extensions/dconf_loader.sh
 
-./ostree/rpm_ostree_kargs.sh
-./ostree/rpm_ostree_packages.sh
+# apps
+./apps/obsidian/obsidian_installer.sh   # untested
+./apps/marktext/marktext_installer.sh   # untested
+./apps/zed/zed_installer.sh             # untested
 
-
-
-
-
+# ostree
+./ostree/rpm_ostree_kargs.sh            # tested
+./ostree/rpm_ostree_packages.sh         # tested
