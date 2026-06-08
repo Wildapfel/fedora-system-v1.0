@@ -9,10 +9,16 @@ INI = f"{PWD}/gnome-tweaks/gsettings.ini"
 with open(INI, "r") as fp:
     lines = fp.readlines()
     for line in lines:
-        cmd = " ".join(["gsettings", "set", line])[:-1]
-        try:
-            output = subprocess.run(cmd, shell=True, capture_output=True)
-            if output.returncode != 0:
-                print(f"Error: {output}")
-        except Exception as e:
-            print("not working")
+        parts = line.split()
+        l = len(parts)
+        if l > 3:
+            print(parts)
+        # print(" ".join(parts[2:]))
+
+        # cmd = " ".join(["gsettings", "set", line])[:-1]
+        # try:
+        #     output = subprocess.run(cmd, shell=True, capture_output=True)
+        #     if output.returncode != 0:
+        #         print(f"returncode: {output.returncode}")
+        # except Exception as e:
+        #     print("not working")
