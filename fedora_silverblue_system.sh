@@ -6,7 +6,7 @@
 
 
 ./ostree/rpm_ostree_kargs.sh
-./ostree/rpm_ostree_installer.sh
+./ostree/rpm_ostree_packages.sh
 
 
 
