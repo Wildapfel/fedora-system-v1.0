@@ -1,0 +1,1328 @@
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo auxiliary-select-key-f 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo auxiliary-select-key-kp 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo bopomofo-keyboard-mapping 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo both-switch '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo cloud-candidates-number 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo cloud-input-source 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo cloud-request-delay-time 600 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo dictionaries '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo display-style 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo dynamic-adjust true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo emoji-candidate true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo enable-cloud-input false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo english-candidate true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo enter-key true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-an-ang true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-c-ch true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-en-eng true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-f-h true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-g-k false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-in-ing true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-l-n true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-l-r false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-s-sh true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo fuzzy-pinyin-z-zh true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo guide-key 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo incomplete-pinyin false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo init-chinese true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo init-full false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo init-full-punct true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo init-simplified-chinese true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo keyboard-layout 'default' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo letter-switch '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo lookup-table-orientation 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo lookup-table-page-size 5 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo main-switch '<Shift>' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo network-dictionary-end-timestamp int64 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo network-dictionary-start-timestamp int64 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo opencc-config 's2tw.json' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo punct-switch '<Control>period' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo remember-every-input false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo select-keys 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo sort-candidate-option 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo suggestion-candidate false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libbopomofo trad-switch '<Control><Shift>f' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin auto-commit false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin both-switch '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin clear-custom-table '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin clear-user-data '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin cloud-candidates-number 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin cloud-input-source 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin cloud-request-delay-time 600 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin comma-period-page false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-gn-ng true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-iou-iu true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-mg-ng true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-on-ong true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-ue-ve true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-uei-ui true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-uen-un true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin correct-pinyin-v-u true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin dictionaries '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin display-style 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin double-pinyin false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin double-pinyin-schema 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin double-pinyin-show-raw false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin dynamic-adjust true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin emoji-candidate true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin enable-cloud-input false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin english-candidate true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin english-input-mode true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin export-bigram-phrase true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin export-custom-table '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin export-dictionary '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin export-user-phrase true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-an-ang true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-c-ch true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-en-eng true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-f-h true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-g-k false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-in-ing true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-l-n true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-l-r false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-s-sh true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin fuzzy-pinyin-z-zh true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin import-custom-table '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin import-dictionary '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin incomplete-pinyin true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin init-chinese true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin init-full false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin init-full-punct true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin init-simplified-chinese true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin keyboard-layout 'default' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin letter-switch '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin lookup-table-orientation 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin lookup-table-page-size 5 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin lua-converter '' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin lua-extension true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin main-switch '<Shift>' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin minus-equal-page true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin network-dictionary-end-timestamp int64 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin network-dictionary-start-timestamp int64 0 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin opencc-config 's2tw.json' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin punct-switch '<Control>period' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin remember-every-input false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin shift-select-candidate false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin sort-candidate-option 1 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin square-bracket-page false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin suggestion-candidate false 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin table-input-mode true 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin trad-switch '<Control><Shift>f' 
+gsettings set com.github.libpinyin.ibus-libpinyin.libpinyin use-custom-table false 
+gsettings set org.fedorahosted.background-logo-extension logo-always-visible false 
+gsettings set org.fedorahosted.background-logo-extension logo-border uint32 50 
+gsettings set org.fedorahosted.background-logo-extension logo-file '/usr/share/fedora-logos/fedora_lightbackground.svg' 
+gsettings set org.fedorahosted.background-logo-extension logo-file-dark '/usr/share/fedora-logos/fedora_darkbackground.svg' 
+gsettings set org.fedorahosted.background-logo-extension logo-opacity uint32 255 
+gsettings set org.fedorahosted.background-logo-extension logo-position 'bottom-right' 
+gsettings set org.fedorahosted.background-logo-extension logo-size 9.0 
+gsettings set org.freedesktop.ColorHelper display-gamma 2.3999999999999999 
+gsettings set org.freedesktop.ColorHelper display-whitepoint 6500 
+gsettings set org.freedesktop.ColorHelper sample-delay 400 
+gsettings set org.freedesktop.IBus.Chewing add-phrase-direction true 
+gsettings set org.freedesktop.IBus.Chewing auto-shift-cur true 
+gsettings set org.freedesktop.IBus.Chewing cand-per-page uint32 5 
+gsettings set org.freedesktop.IBus.Chewing chi-eng-mode-toggle 'caps_lock' 
+gsettings set org.freedesktop.IBus.Chewing clean-buffer-focus-out false 
+gsettings set org.freedesktop.IBus.Chewing conversion-engine 'chewing' 
+gsettings set org.freedesktop.IBus.Chewing default-english-case 'lowercase' 
+gsettings set org.freedesktop.IBus.Chewing default-use-english-mode false 
+gsettings set org.freedesktop.IBus.Chewing easy-symbol-input true 
+gsettings set org.freedesktop.IBus.Chewing enable-fullwidth-toggle-key true 
+gsettings set org.freedesktop.IBus.Chewing esc-clean-all-buf false 
+gsettings set org.freedesktop.IBus.Chewing kb-type 'default' 
+gsettings set org.freedesktop.IBus.Chewing max-chi-symbol-len 20 
+gsettings set org.freedesktop.IBus.Chewing notify-mode-change true 
+gsettings set org.freedesktop.IBus.Chewing phrase-choice-from-last true 
+gsettings set org.freedesktop.IBus.Chewing plain-zhuyin false 
+gsettings set org.freedesktop.IBus.Chewing sel-keys '1234567890' 
+gsettings set org.freedesktop.IBus.Chewing show-page-number false 
+gsettings set org.freedesktop.IBus.Chewing show-systray true 
+gsettings set org.freedesktop.IBus.Chewing space-as-selection false 
+gsettings set org.freedesktop.IBus.Chewing sync-caps-lock 'keyboard' 
+gsettings set org.freedesktop.IBus.Chewing vertical-lookup-table false 
+gsettings set org.freedesktop.Tracker3.Extract max-bytes 1048576 
+gsettings set org.freedesktop.Tracker3.Extract text-allowlist ['*.txt', '*.md', '*.mdwn'] 
+gsettings set org.freedesktop.Tracker3.Extract wait-for-miner-fs false 
+gsettings set org.freedesktop.Tracker3.FTS enable-stemmer false 
+gsettings set org.freedesktop.Tracker3.FTS enable-unaccent true 
+gsettings set org.freedesktop.Tracker3.FTS ignore-numbers true 
+gsettings set org.freedesktop.Tracker3.Miner.Files crawling-interval -1 
+gsettings set org.freedesktop.Tracker3.Miner.Files enable-monitors true 
+gsettings set org.freedesktop.Tracker3.Miner.Files ignored-directories ['po', 'CVS', 'core-dumps', 'lost+found'] 
+gsettings set org.freedesktop.Tracker3.Miner.Files ignored-directories-with-content ['.trackerignore', '.git', '.hg', '.nomedia'] 
+gsettings set org.freedesktop.Tracker3.Miner.Files ignored-files ['*~', '*.o', '*.la', '*.lo', '*.loT', '*.in', '*.m4', '*.rej', '*.gmo', '*.orig', '*.pc', '*.omf', '*.aux', '*.tmp', '*.vmdk', '*.vm*', '*.nvram', '*.part', '*.rcore', '*.lzo', 'autom4te', 'conftest', 'confstat', 'Makefile', 'SCCS', 'ltmain.sh', 'libtool', 'config.status', 'confdefs.h', 'configure', '#*#', '~$*.doc?', '~$*.dot?', '~$*.xls?', '~$*.xlt?', '~$*.xlam', '~$*.ppt?', '~$*.pot?', '~$*.ppam', '~$*.ppsm', '~$*.ppsx', '~$*.vsd?', '~$*.vss?', '~$*.vst?', '*.directory'] 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-on-battery true 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-on-battery-first-time true 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-optical-discs false 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-recursive-directories ['&DESKTOP', '&DOCUMENTS', '&MUSIC', '&PICTURES', '&VIDEOS'] 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-removable-devices false 
+gsettings set org.freedesktop.Tracker3.Miner.Files index-single-directories ['$HOME', '&DOWNLOAD'] 
+gsettings set org.freedesktop.Tracker3.Miner.Files initial-sleep 15 
+gsettings set org.freedesktop.Tracker3.Miner.Files low-disk-space-limit -1 
+gsettings set org.freedesktop.Tracker3.Miner.Files removable-days-threshold 3 
+gsettings set org.freedesktop.Tracker3.Miner.Files throttle 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common add-word-command ['/usr/bin/kasumi-unicode', 'kasumi-unicode', '-a'] 
+gsettings set org.freedesktop.ibus.engine.anthy.common behavior-on-focus-out 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common behavior-on-period 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common conversion-segment-mode 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common dict-admin-command ['/usr/bin/kasumi-unicode', 'kasumi-unicode'] 
+gsettings set org.freedesktop.ibus.engine.anthy.common dict-config-icon '/usr/share/pixmaps/kasumi.png' 
+gsettings set org.freedesktop.ibus.engine.anthy.common half-width-number false 
+gsettings set org.freedesktop.ibus.engine.anthy.common half-width-space false 
+gsettings set org.freedesktop.ibus.engine.anthy.common half-width-symbol false 
+gsettings set org.freedesktop.ibus.engine.anthy.common input-mode 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common keyboard-layouts ['default', 'jp', 'us', 'jp[ctrl:swapcaps]', 'us[ctrl:swapcaps]', 'jp[ctrl:swapcaps,compose:rctrl]', 'us[ctrl:swapcaps,compose:rctrl]', 'jp[japan:kana_lock]', 'jp[japan:nicola_f_bs]', 'jp[japan:nicola_f_bs,ctrl:swapcaps]', 'jp[japan:hztg_escape]', 'jp[japan:hztg_escape,ctrl:swapcaps]'] 
+gsettings set org.freedesktop.ibus.engine.anthy.common latin-with-shift true 
+gsettings set org.freedesktop.ibus.engine.anthy.common page-size 10 
+gsettings set org.freedesktop.ibus.engine.anthy.common period-style 0 
+gsettings set org.freedesktop.ibus.engine.anthy.common shortcut-type 'default' 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-dict-config false 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-dict-mode true 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-input-mode true 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-preferences true 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-segment-mode false 
+gsettings set org.freedesktop.ibus.engine.anthy.common show-typing-method false 
+gsettings set org.freedesktop.ibus.engine.anthy.common symbol-style 1 
+gsettings set org.freedesktop.ibus.engine.anthy.common ten-key-mode 1 
+gsettings set org.freedesktop.ibus.engine.anthy.common trigger-periods ',.、。，．' 
+gsettings set org.freedesktop.ibus.engine.anthy.common typing-method 0 
+gsettings set org.freedesktop.ibus.engine.anthy.dict files {'oldchar': <['/usr/share/ibus-anthy/dicts/oldchar.t']>, 'era': <['/usr/share/ibus-anthy/dicts/era.t']>, 'zipcode': <['/usr/share/ibus-anthy/dicts/zipcode.t']>, 'symbol': <['/usr/share/ibus-anthy/dicts/symbol.t']>, 'emoji': <['/usr/share/ibus-anthy/dicts/emoji.t']>} 
+gsettings set org.freedesktop.ibus.engine.anthy.dict list [<('embedded', '般', 'General', '', true, 0, true, true, false, 'utf-8')>, <('zipcode', '〒', 'Zip Code Conversion', '', true, -1, false, true, false, 'utf-8')>, <('symbol', '記', 'Symbol', '', true, -1, true, false, false, 'utf-8')>, <('oldchar', '旧', 'Old Character Style', '', true, -1, false, true, false, 'utf-8')>, <('era', '年', 'Era', '', true, -1, false, true, false, 'utf-8')>, <('emoji', '😊', 'Emoji', '', true, -1, false, true, false, 'utf-8')>] 
+gsettings set org.freedesktop.ibus.engine.anthy.dict order @as [] 
+gsettings set org.freedesktop.ibus.engine.anthy.dict template <('template', '', '', '', false, 300, false, true, false, 'utf-8')> 
+gsettings set org.freedesktop.ibus.engine.anthy.kana-typing-rule list {'jp': <{'1': <'ぬ'>, '2': <'ふ'>, '3': <'あ'>, '4': <'う'>, '5': <'え'>, '6': <'お'>, '7': <'や'>, '8': <'ゆ'>, '9': <'よ'>, '0': <'わ'>, 'minus': <'ほ'>, 'asciicircum': <'へ'>, 'q': <'た'>, 'w': <'て'>, 'e': <'い'>, 'r': <'す'>, 't': <'か'>, 'y': <'ん'>, 'u': <'な'>, 'i': <'に'>, 'o': <'ら'>, 'p': <'せ'>, 'at': <'゛'>, 'bracketleft': <'゜'>, 'a': <'ち'>, 's': <'と'>, 'd': <'し'>, 'f': <'は'>, 'g': <'き'>, 'h': <'く'>, 'j': <'ま'>, 'k': <'の'>, 'l': <'り'>, 'semicolon': <'れ'>, 'colon': <'け'>, 'bracketright': <'む'>, 'z': <'つ'>, 'x': <'さ'>, 'c': <'そ'>, 'v': <'ひ'>, 'b': <'こ'>, 'n': <'み'>, 'm': <'も'>, 'comma': <'ね'>, 'period': <'る'>, 'slash': <'め'>, 'backslash': <'ろ'>, 'exclam': <'ぬ'>, 'quotedbl': <'ふ'>, 'numbersign': <'ぁ'>, 'dollar': <'ぅ'>, 'percent': <'ぇ'>, 'ampersand': <'ぉ'>, 'apostrophe': <'ゃ'>, 'parenleft': <'ゅ'>, 'parenright': <'ょ'>, 'asciitilde': <'を'>, 'equal': <'ゑ'>, 'bar': <'ー'>, 'largeq': <'た'>, 'largew': <'て'>, 'largee': <'ぃ'>, 'larger': <'す'>, 'larget': <'ヵ'>, 'largey': <'ん'>, 'largeu': <'な'>, 'largei': <'に'>, 'largeo': <'ら'>, 'largep': <'せ'>, 'grave': <'゛'>, 'braceleft': <'「'>, 'largea': <'ち'>, 'larges': <'と'>, 'larged': <'し'>, 'largef': <'ゎ'>, 'largeg': <'き'>, 'largeh': <'く'>, 'largej': <'ま'>, 'largek': <'の'>, 'largel': <'り'>, 'plus': <'れ'>, 'asterisk': <'ヶ'>, 'braceright': <'」'>, 'largez': <'っ'>, 'largex': <'さ'>, 'largec': <'そ'>, 'largev': <'ゐ'>, 'largeb': <'こ'>, 'largen': <'み'>, 'largem': <'も'>, 'less': <'、'>, 'greater': <'。'>, 'question': <'・'>, 'underscore': <'ろ'>, 'yen': <'ー'>}>, 'us': <{'grave': <'ろ'>, '1': <'ぬ'>, '2': <'ふ'>, '3': <'あ'>, '4': <'う'>, '5': <'え'>, '6': <'お'>, '7': <'や'>, '8': <'ゆ'>, '9': <'よ'>, '0': <'わ'>, 'minus': <'ほ'>, 'equal': <'へ'>, 'q': <'た'>, 'w': <'て'>, 'e': <'い'>, 'r': <'す'>, 't': <'か'>, 'y': <'ん'>, 'u': <'な'>, 'i': <'に'>, 'o': <'ら'>, 'p': <'せ'>, 'bracketleft': <'゛'>, 'bracketright': <'゜'>, 'backslash': <'む'>, 'a': <'ち'>, 's': <'と'>, 'd': <'し'>, 'f': <'は'>, 'g': <'き'>, 'h': <'く'>, 'j': <'ま'>, 'k': <'の'>, 'l': <'り'>, 'semicolon': <'れ'>, 'apostrophe': <'け'>, 'z': <'つ'>, 'x': <'さ'>, 'c': <'そ'>, 'v': <'ひ'>, 'b': <'こ'>, 'n': <'み'>, 'm': <'も'>, 'comma': <'ね'>, 'period': <'る'>, 'slash': <'め'>, 'asciitilde': <'ろ'>, 'exclam': <'ぬ'>, 'at': <'ふ'>, 'numbersign': <'ぁ'>, 'dollar': <'ぅ'>, 'percent': <'ぇ'>, 'asciicircum': <'ぉ'>, 'ampersand': <'ゃ'>, 'asterisk': <'ゅ'>, 'parenleft': <'ょ'>, 'parenright': <'を'>, 'underscore': <'ー'>, 'plus': <'ゑ'>, 'largeq': <'た'>, 'largew': <'て'>, 'largee': <'ぃ'>, 'larger': <'す'>, 'larget': <'ヵ'>, 'largey': <'ん'>, 'largeu': <'な'>, 'largei': <'に'>, 'largeo': <'ら'>, 'largep': <'せ'>, 'braceleft': <'「'>, 'braceright': <'」'>, 'bar': <'む'>, 'largea': <'ち'>, 'larges': <'と'>, 'larged': <'し'>, 'largef': <'ゎ'>, 'largeg': <'き'>, 'largeh': <'く'>, 'largej': <'ま'>, 'largek': <'の'>, 'largel': <'り'>, 'colon': <'れ'>, 'quotedbl': <'ヶ'>, 'largez': <'っ'>, 'largex': <'さ'>, 'largec': <'そ'>, 'largev': <'ゐ'>, 'largeb': <'こ'>, 'largen': <'み'>, 'largem': <'も'>, 'less': <'、'>, 'greater': <'。'>, 'question': <'・'>}>} 
+gsettings set org.freedesktop.ibus.engine.anthy.kana-typing-rule method 'jp' 
+gsettings set org.freedesktop.ibus.engine.anthy.romaji-typing-rule list {'default': <{'minus': <'ー'>, 'a': <'あ'>, 'i': <'い'>, 'u': <'う'>, 'e': <'え'>, 'o': <'お'>, 'x-a': <'ぁ'>, 'x-i': <'ぃ'>, 'x-u': <'ぅ'>, 'x-e': <'ぇ'>, 'x-o': <'ぉ'>, 'l-a': <'ぁ'>, 'l-i': <'ぃ'>, 'l-u': <'ぅ'>, 'l-e': <'ぇ'>, 'l-o': <'ぉ'>, 'w-h-a': <'うぁ'>, 'w-h-i': <'うぃ'>, 'w-h-e': <'うぇ'>, 'w-h-o': <'うぉ'>, 'w-y-a': <'うゃ'>, 'w-y-u': <'うゅ'>, 'w-y-o': <'うょ'>, 'v-a': <'ヴぁ'>, 'v-i': <'ヴぃ'>, 'v-u': <'ヴ'>, 'v-e': <'ヴぇ'>, 'v-o': <'ヴぉ'>, 'v-y-a': <'ヴゃ'>, 'v-y-u': <'ヴゅ'>, 'v-y-e': <'ヴぃぇ'>, 'v-y-o': <'ヴょ'>, 'k-a': <'か'>, 'k-i': <'き'>, 'k-u': <'く'>, 'k-e': <'け'>, 'k-o': <'こ'>, 'l-k-a': <'ヵ'>, 'l-k-e': <'ヶ'>, 'x-k-a': <'ヵ'>, 'x-k-e': <'ヶ'>, 'g-a': <'が'>, 'g-i': <'ぎ'>, 'g-u': <'ぐ'>, 'g-e': <'げ'>, 'g-o': <'ご'>, 'k-y-a': <'きゃ'>, 'k-y-i': <'きぃ'>, 'k-y-u': <'きゅ'>, 'k-y-e': <'きぇ'>, 'k-y-o': <'きょ'>, 'k-w-a': <'くぁ'>, 'k-w-i': <'くぃ'>, 'k-w-u': <'くぅ'>, 'k-w-e': <'くぇ'>, 'k-w-o': <'くぉ'>, 'g-y-a': <'ぎゃ'>, 'g-y-i': <'ぎぃ'>, 'g-y-u': <'ぎゅ'>, 'g-y-e': <'ぎぇ'>, 'g-y-o': <'ぎょ'>, 'g-w-a': <'ぐぁ'>, 'g-w-i': <'ぐぃ'>, 'g-w-u': <'ぐぅ'>, 'g-w-e': <'ぐぇ'>, 'g-w-o': <'ぐぉ'>, 's-a': <'さ'>, 's-i': <'し'>, 's-u': <'す'>, 's-e': <'せ'>, 's-o': <'そ'>, 'z-a': <'ざ'>, 'z-i': <'じ'>, 'z-u': <'ず'>, 'z-e': <'ぜ'>, 'z-o': <'ぞ'>, 's-y-a': <'しゃ'>, 's-y-i': <'しぃ'>, 's-y-u': <'しゅ'>, 's-y-e': <'しぇ'>, 's-y-o': <'しょ'>, 's-h-a': <'しゃ'>, 's-h-i': <'し'>, 's-h-u': <'しゅ'>, 's-h-e': <'しぇ'>, 's-h-o': <'しょ'>, 'z-y-a': <'じゃ'>, 'z-y-i': <'じぃ'>, 'z-y-u': <'じゅ'>, 'z-y-e': <'じぇ'>, 'z-y-o': <'じょ'>, 'j-a': <'じゃ'>, 'j-y-a': <'じゃ'>, 'j-i': <'じ'>, 'j-y-i': <'じぃ'>, 'j-u': <'じゅ'>, 'j-y-u': <'じゅ'>, 'j-e': <'じぇ'>, 'j-y-e': <'じぇ'>, 'j-o': <'じょ'>, 'j-y-o': <'じょ'>, 's-w-i': <'すぅぃ'>, 's-w-e': <'すぇ'>, 'z-w-e': <'ずぇ'>, 't-a': <'た'>, 't-i': <'ち'>, 't-u': <'つ'>, 't-s-u': <'つ'>, 't-e': <'て'>, 't-o': <'と'>, 'd-a': <'だ'>, 'd-i': <'ぢ'>, 'd-u': <'づ'>, 'd-e': <'で'>, 'd-o': <'ど'>, 'x-t-u': <'っ'>, 'x-t-s-u': <'っ'>, 'l-t-u': <'っ'>, 'l-t-s-u': <'っ'>, 't-y-a': <'ちゃ'>, 't-y-i': <'ちぃ'>, 't-y-u': <'ちゅ'>, 't-y-e': <'ちぇ'>, 't-y-o': <'ちょ'>, 'c-y-a': <'ちゃ'>, 'c-y-i': <'ちぃ'>, 'c-y-u': <'ちゅ'>, 'c-y-e': <'ちぇ'>, 'c-y-o': <'ちょ'>, 'c-h-a': <'ちゃ'>, 'c-h-i': <'ち'>, 'c-h-u': <'ちゅ'>, 'c-h-e': <'ちぇ'>, 'c-h-o': <'ちょ'>, 'd-y-a': <'ぢゃ'>, 'd-y-i': <'ぢぃ'>, 'd-y-u': <'ぢゅ'>, 'd-y-e': <'ぢぇ'>, 'd-y-o': <'ぢょ'>, 't-s-a': <'つぁ'>, 't-s-i': <'つぃ'>, 't-s-e': <'つぇ'>, 't-s-o': <'つぉ'>, 't-s-y-a': <'つゃ'>, 't-s-y-u': <'つゅ'>, 't-s-y-e': <'つぃぇ'>, 't-s-y-o': <'つょ'>, 'd-z-a': <'づぁ'>, 'd-z-i': <'づぃ'>, 'd-z-u': <'づ'>, 'd-z-e': <'づぇ'>, 'd-z-o': <'づぉ'>, 'd-z-y-a': <'づゃ'>, 'd-z-y-u': <'づゅ'>, 'd-z-y-e': <'づぃぇ'>, 'd-z-y-o': <'づょ'>, 't-h-a': <'てゃ'>, 't-h-i': <'てぃ'>, 't-h-u': <'てゅ'>, 't-h-e': <'てぇ'>, 't-h-o': <'てょ'>, 't-w-u': <'とぅ'>, 'd-h-a': <'でゃ'>, 'd-h-i': <'でぃ'>, 'd-h-u': <'でゅ'>, 'd-h-e': <'でぇ'>, 'd-h-o': <'でょ'>, 'd-w-u': <'どぅ'>, 'n-a': <'な'>, 'n-i': <'に'>, 'n-u': <'ぬ'>, 'n-e': <'ね'>, 'n-o': <'の'>, 'n-y-a': <'にゃ'>, 'n-y-i': <'にぃ'>, 'n-y-u': <'にゅ'>, 'n-y-e': <'にぇ'>, 'n-y-o': <'にょ'>, 'h-a': <'は'>, 'h-i': <'ひ'>, 'h-u': <'ふ'>, 'h-e': <'へ'>, 'h-o': <'ほ'>, 'b-a': <'ば'>, 'b-i': <'び'>, 'b-u': <'ぶ'>, 'b-e': <'べ'>, 'b-o': <'ぼ'>, 'p-a': <'ぱ'>, 'p-i': <'ぴ'>, 'p-u': <'ぷ'>, 'p-e': <'ぺ'>, 'p-o': <'ぽ'>, 'h-y-a': <'ひゃ'>, 'h-y-i': <'ひぃ'>, 'h-y-u': <'ひゅ'>, 'h-y-e': <'ひぇ'>, 'h-y-o': <'ひょ'>, 'b-y-a': <'びゃ'>, 'b-y-i': <'びぃ'>, 'b-y-u': <'びゅ'>, 'b-y-e': <'びぇ'>, 'b-y-o': <'びょ'>, 'p-y-a': <'ぴゃ'>, 'p-y-i': <'ぴぃ'>, 'p-y-u': <'ぴゅ'>, 'p-y-e': <'ぴぇ'>, 'p-y-o': <'ぴょ'>, 'f-a': <'ふぁ'>, 'f-i': <'ふぃ'>, 'f-u': <'ふ'>, 'f-e': <'ふぇ'>, 'f-o': <'ふぉ'>, 'f-y-a': <'ふゃ'>, 'f-y-i': <'ふぃ'>, 'f-y-u': <'ふゅ'>, 'f-y-e': <'ふぇ'>, 'f-y-o': <'ふょ'>, 'b-w-a': <'ぶぁ'>, 'b-w-e': <'ぶぇ'>, 'b-w-o': <'ぶぉ'>, 'p-w-a': <'ぷぁ'>, 'p-w-e': <'ぷぇ'>, 'p-w-o': <'ぷぉ'>, 'm-a': <'ま'>, 'm-i': <'み'>, 'm-u': <'む'>, 'm-e': <'め'>, 'm-o': <'も'>, 'm-y-a': <'みゃ'>, 'm-y-i': <'みぃ'>, 'm-y-u': <'みゅ'>, 'm-y-e': <'みぇ'>, 'm-y-o': <'みょ'>, 'y-a': <'や'>, 'y-i': <'い'>, 'y-u': <'ゆ'>, 'y-e': <'いぇ'>, 'y-o': <'よ'>, 'l-y-a': <'ゃ'>, 'l-y-i': <'ぃ'>, 'l-y-u': <'ゅ'>, 'l-y-e': <'ぇ'>, 'l-y-o': <'ょ'>, 'x-y-a': <'ゃ'>, 'x-y-i': <'ぃ'>, 'x-y-u': <'ゅ'>, 'x-y-e': <'ぇ'>, 'x-y-o': <'ょ'>, 'r-a': <'ら'>, 'r-i': <'り'>, 'r-u': <'る'>, 'r-e': <'れ'>, 'r-o': <'ろ'>, 'r-y-a': <'りゃ'>, 'r-y-i': <'りぃ'>, 'r-y-u': <'りゅ'>, 'r-y-e': <'りぇ'>, 'r-y-o': <'りょ'>, 'w-a': <'わ'>, 'w-i': <'うぃ'>, 'w-u': <'う'>, 'w-e': <'うぇ'>, 'w-o': <'を'>, 'l-w-a': <'ゎ'>, 'x-w-a': <'ゎ'>, 'n-apostrophe': <'ん'>, 'n-n': <'ん'>, 'w-y-i': <'ゐ'>, 'w-y-e': <'ゑ'>}>} 
+gsettings set org.freedesktop.ibus.engine.anthy.romaji-typing-rule method 'default' 
+gsettings set org.freedesktop.ibus.engine.anthy.shortcut atok {'on_off': <['Henkan', 'Eisu_toggle', 'Zenkaku_Hankaku']>, 'circle_input_mode': <['F10']>, 'hiragana_mode': <['Hiragana_Katakana']>, 'katakana_mode': <['Shift+Hiragana_Katakana']>, 'circle_typing_method': <['Romaji', 'Alt+Romaji']>, 'circle_dict_method': <['Alt+Henkan']>, 'convert': <['space', 'Henkan', 'Shift+space', 'Shift+Henkan']>, 'predict': <['Tab']>, 'cancel': <['Escape', 'BackSpace', 'Ctrl+H', 'Ctrl+bracketleft']>, 'commit': <['Return', 'Ctrl+M']>, 'reconvert': <['Shift+Henkan']>, 'insert_space': <['space']>, 'insert_alternate_space': <['Shift+space']>, 'backspace': <['BackSpace', 'Ctrl+H']>, 'delete': <['Delete', 'Ctrl+G']>, 'move_caret_backward': <['Left', 'Ctrl+K']>, 'move_caret_forward': <['Right', 'Ctrl+L']>, 'move_caret_first': <['Ctrl+Left']>, 'move_caret_last': <['Ctrl+Right']>, 'select_prev_segment': <['Shift+Left']>, 'select_next_segment': <['Shift+Right']>, 'select_first_segment': <['Ctrl+Left']>, 'select_last_segment': <['Ctrl+Right']>, 'expand_segment': <['Right', 'Ctrl+L']>, 'shrink_segment': <['Left', 'Ctrl+K']>, 'commit_selected_segment': <['Down', 'Ctrl+N']>, 'candidates_page_up': <['Shift+Henkan', 'Page_Up']>, 'candidates_page_down': <['Henkan', 'Page_Down']>, 'select_next_candidate': <['space', 'Tab', 'Henkan', 'Shift+space', 'Shift+Henkan']>, 'select_prev_candidate': <['Up']>, 'select_candidates_1': <['1']>, 'select_candidates_2': <['2']>, 'select_candidates_3': <['3']>, 'select_candidates_4': <['4']>, 'select_candidates_5': <['5']>, 'select_candidates_6': <['6']>, 'select_candidates_7': <['7']>, 'select_candidates_8': <['8']>, 'select_candidates_9': <['9']>, 'select_candidates_0': <['0']>, 'convert_to_hiragana': <['F6', 'Ctrl+U']>, 'convert_to_katakana': <['F7', 'Ctrl+I']>, 'convert_to_half': <['F8', 'Ctrl+O']>, 'convert_to_half_katakana': <['Shift+F8']>, 'convert_to_wide_latin': <['F9', 'Ctrl+P']>, 'convert_to_latin': <['F10', 'Ctrl+at']>, 'convert_to_hiragana_all': <['Shift+F6']>, 'convert_to_katakana_all': <['Shift+F7']>, 'convert_to_wide_latin_all': <['Shift+F9']>, 'convert_to_latin_all': <['Shift+F10']>, 'dict_admin': <['F11']>, 'add_word': <['Ctrl+F7']>, 'hiragana_for_latin_with_shift': <['Ctrl+J']>} 
+gsettings set org.freedesktop.ibus.engine.anthy.shortcut default {'on_off': <['Zenkaku_Hankaku', 'Ctrl+space', 'Ctrl+J']>, 'circle_input_mode': <['Ctrl+comma', 'Ctrl+less']>, 'circle_kana_mode': <['Ctrl+greater']>, 'circle_typing_method': <['Alt+Romaji', 'Ctrl+slash']>, 'circle_dict_method': <['Alt+Henkan']>, 'insert_space': <['space']>, 'insert_alternate_space': <['Shift+space']>, 'backspace': <['BackSpace', 'Ctrl+H']>, 'delete': <['Delete', 'Ctrl+D']>, 'commit': <['Return', 'KP_Enter', 'Ctrl+J', 'Ctrl+M']>, 'convert': <['space', 'KP_Space', 'Henkan']>, 'predict': <['Tab', 'ISO_Left_Tab']>, 'cancel': <['Escape', 'Ctrl+G']>, 'reconvert': <['Shift+Henkan']>, 'move_caret_first': <['Ctrl+A', 'Home']>, 'move_caret_last': <['Ctrl+E', 'End']>, 'move_caret_forward': <['Right', 'Ctrl+F']>, 'move_caret_backward': <['Left', 'Ctrl+B']>, 'select_first_segment': <['Ctrl+A', 'Home']>, 'select_last_segment': <['Ctrl+E', 'End']>, 'select_next_segment': <['Right', 'Ctrl+F']>, 'select_prev_segment': <['Left', 'Ctrl+B']>, 'shrink_segment': <['Shift+Left', 'Ctrl+I']>, 'expand_segment': <['Shift+Right', 'Ctrl+O']>, 'commit_first_segment': <['Shift+Down']>, 'commit_selected_segment': <['Ctrl+Down']>, 'select_first_candidate': <['Home']>, 'select_last_candidate': <['End']>, 'select_next_candidate': <['space', 'KP_Space', 'Tab', 'ISO_Left_Tab', 'Henkan', 'Down', 'KP_Add', 'Ctrl+N']>, 'select_prev_candidate': <['Shift+Tab', 'Shift+ISO_Left_Tab', 'Up', 'KP_Subtract', 'Ctrl+P']>, 'candidates_page_up': <['Page_Up']>, 'candidates_page_down': <['Page_Down', 'KP_Tab']>, 'select_candidates_1': <['1']>, 'select_candidates_2': <['2']>, 'select_candidates_3': <['3']>, 'select_candidates_4': <['4']>, 'select_candidates_5': <['5']>, 'select_candidates_6': <['6']>, 'select_candidates_7': <['7']>, 'select_candidates_8': <['8']>, 'select_candidates_9': <['9']>, 'select_candidates_0': <['0']>, 'convert_to_char_type_forward': <['Muhenkan']>, 'convert_to_hiragana': <['F6']>, 'convert_to_katakana': <['F7']>, 'convert_to_half': <['F8']>, 'convert_to_half_katakana': <['Shift+F8']>, 'convert_to_wide_latin': <['F9']>, 'convert_to_latin': <['F10']>, 'convert_to_hiragana_all': <['Shift+F6']>, 'convert_to_katakana_all': <['Shift+F7']>, 'convert_to_wide_latin_all': <['Shift+F9']>, 'convert_to_latin_all': <['Shift+F10']>, 'dict_admin': <['F11']>, 'add_word': <['F12']>, 'hiragana_for_latin_with_shift': <['Hiragana_Katakana']>} 
+gsettings set org.freedesktop.ibus.engine.anthy.shortcut wnn {'on_off': <['Shift+space']>, 'convert': <['space']>, 'predict': <['Ctrl+Q']>, 'cancel': <['Escape', 'Ctrl+G', 'Alt+Down', 'Muhenkan']>, 'commit': <['Ctrl+L', 'Ctrl+M', 'Ctrl+J', 'Return']>, 'insert_space': <['space']>, 'backspace': <['Ctrl+H', 'BackSpace']>, 'delete': <['Ctrl+D', 'Delete']>, 'circle_dict_method': <['Alt+Henkan']>, 'move_caret_backward': <['Ctrl+B', 'Left']>, 'move_caret_forward': <['Ctrl+F', 'Right']>, 'move_caret_first': <['Ctrl+A', 'Alt+Left']>, 'move_caret_last': <['Ctrl+E', 'Alt+Right']>, 'select_prev_segment': <['Ctrl+B', 'Left']>, 'select_next_segment': <['Ctrl+F', 'Right']>, 'select_first_segment': <['Ctrl+A', 'Alt+Left']>, 'select_last_segment': <['Ctrl+E', 'Alt+Right']>, 'expand_segment': <['Ctrl+O', 'F14']>, 'shrink_segment': <['Ctrl+I', 'F13']>, 'candidates_page_up': <['Tab']>, 'candidates_page_down': <['Shift+Tab']>, 'select_next_candidate': <['space', 'Ctrl+Q', 'Ctrl+P', 'Down']>, 'select_prev_candidate': <['Ctrl+N', 'Up']>, 'select_candidates_1': <['1']>, 'select_candidates_2': <['2']>, 'select_candidates_3': <['3']>, 'select_candidates_4': <['4']>, 'select_candidates_5': <['5']>, 'select_candidates_6': <['6']>, 'select_candidates_7': <['7']>, 'select_candidates_8': <['8']>, 'select_candidates_9': <['9']>, 'select_candidates_0': <['0']>, 'convert_to_hiragana': <['F6']>, 'convert_to_katakana': <['F7']>, 'convert_to_half': <['F8']>, 'convert_to_wide_latin': <['F9']>, 'convert_to_latin': <['F10']>, 'convert_to_hiragana_all': <['Shift+F6']>, 'convert_to_katakana_all': <['Shift+F7']>, 'convert_to_half_all': <['Shift+F8']>, 'convert_to_wide_latin_all': <['Shift+F9']>, 'convert_to_latin_all': <['Shift+F10']>, 'dict_admin': <['F11']>, 'add_word': <['F12']>, 'hiragana_for_latin_with_shift': <['Hiragana_Katakana']>} 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb fmv-extension 2 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb handakuten false 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb keyboard-layout 0 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb keyboard-layout-mode true 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb ls 'Muhenkan' 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb rs 'Henkan' 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb t1 100 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb t2 75 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb-typing-rule list {'base': <{'q': <['。', '', 'ぁ']>, 'w': <['か', 'が', 'え']>, 'e': <['た', 'だ', 'り']>, 'r': <['こ', 'ご', 'ゃ']>, 't': <['さ', 'ざ', 'れ']>, 'y': <['ら', 'よ', 'ぱ']>, 'u': <['ち', 'に', 'ぢ']>, 'i': <['く', 'る', 'ぐ']>, 'o': <['つ', 'ま', 'づ']>, 'p': <['，', 'ぇ', 'ぴ']>, 'at': <['、', '', '']>, 'bracketleft': <['゛', '゜', '']>, 'a': <['う', '', 'を']>, 's': <['し', 'じ', 'あ']>, 'd': <['て', 'で', 'な']>, 'f': <['け', 'げ', 'ゅ']>, 'g': <['せ', 'ぜ', 'も']>, 'h': <['は', 'み', 'ば']>, 'j': <['と', 'お', 'ど']>, 'k': <['き', 'の', 'ぎ']>, 'l': <['い', 'ょ', 'ぽ']>, 'semicolon': <['ん', 'っ', '']>, 'z': <['．', '', 'ぅ']>, 'x': <['ひ', 'び', 'ー']>, 'c': <['す', 'ず', 'ろ']>, 'v': <['ふ', 'ぶ', 'や']>, 'b': <['へ', 'べ', 'ぃ']>, 'n': <['め', 'ぬ', 'ぷ']>, 'm': <['そ', 'ゆ', 'ぞ']>, 'comma': <['ね', 'む', 'ぺ']>, 'period': <['ほ', 'わ', 'ぼ']>, 'slash': <['・', 'ぉ', '']>, '1': <['1', '', '？']>, '2': <['2', '', '／']>, '4': <['4', '', '「']>, '5': <['5', '', '」']>, '6': <['6', '［', '']>, '7': <['7', '］', '']>, '8': <['8', '（', '']>, '9': <['9', '）', '']>, 'backslash': <['￥', '', '']>}>, 'nicola-j-table': <{'colon': <['：', '', '']>, 'at': <['、', '', '']>, 'bracketleft': <['゛', '゜', '']>, 'bracketright': <['」', '', '']>, '8': <['8', '（', '']>, '9': <['9', '）', '']>, '0': <['0', '', '']>}>, 'nicola-a-table': <{'colon': <['：', '', '']>, 'at': <['＠', '', '']>, 'bracketleft': <['、', '', '']>, 'bracketright': <['゛', '゜', '']>, '8': <['8', '', '']>, '9': <['9', '（', '']>, '0': <['0', '）', '']>}>, 'nicola-f-table': <{'colon': <['、', '', '']>, 'at': <['＠', '', '']>, 'bracketleft': <['゛', '゜', '']>, 'bracketright': <['」', '', '']>, '8': <['8', '（', '']>, '9': <['9', '）', '']>, '0': <['0', '', '']>}>, 'kb231-j-fmv-table': <{'3': <['3', '', '～']>, '0': <['0', '『', '']>, 'minus': <['-', '』', '']>, 'equal': <['=', '', '']>}>, 'kb231-a-fmv-table': <{'3': <['3', '', '～']>, '0': <['0', '）', '']>, 'minus': <['-', '『', '']>, 'equal': <['=', '』', '']>}>, 'kb231-f-fmv-table': <{'3': <['3', '', '～']>, '0': <['0', '『', '']>, 'minus': <['-', '』', '']>, 'equal': <['=', '', '']>}>, 'kb611-j-fmv-table': <{'grave': <['‘', '', '']>, 'asciicircum': <['々', '£', '']>, 'colon': <['：', '', '']>, 'at': <['、', '¢', '']>, 'bracketleft': <['゛', '゜', '']>, 'backslash': <['￥', '¦', '']>}>, 'kb611-a-fmv-table': <{'grave': <['々', '', '£']>, 'colon': <['：', '', '']>, 'at': <['＠', '', '']>, 'bracketleft': <['、', '¢', '']>, 'backslash': <['￥', '¦', '']>}>, 'kb611-f-fmv-table': <{'grave': <['‘', '', '']>, 'asciicircum': <['々', '£', '']>, 'colon': <['、', '¢', '']>, 'at': <['＠', '', '']>, 'bracketleft': <['゛', '゜', '']>, 'backslash': <['￥', '¦', '']>}>} 
+gsettings set org.freedesktop.ibus.engine.anthy.thumb-typing-rule method 'base' 
+gsettings set org.freedesktop.ibus.engine.hangul auto-reorder true 
+gsettings set org.freedesktop.ibus.engine.hangul disable-latin-mode false 
+gsettings set org.freedesktop.ibus.engine.hangul hangul-keyboard '2' 
+gsettings set org.freedesktop.ibus.engine.hangul hanja-keys 'Hangul_Hanja,F9' 
+gsettings set org.freedesktop.ibus.engine.hangul initial-input-mode 'latin' 
+gsettings set org.freedesktop.ibus.engine.hangul off-keys 'Escape' 
+gsettings set org.freedesktop.ibus.engine.hangul on-keys '' 
+gsettings set org.freedesktop.ibus.engine.hangul preedit-mode 'syllable' 
+gsettings set org.freedesktop.ibus.engine.hangul switch-keys 'Hangul,Shift+space' 
+gsettings set org.freedesktop.ibus.engine.hangul use-event-forwarding true 
+gsettings set org.freedesktop.ibus.engine.hangul word-commit false 
+gsettings set org.freedesktop.ibus.general dconf-preserve-name-prefixes ['/desktop/ibus/engine/pinyin', '/desktop/ibus/engine/bopomofo', '/desktop/ibus/engine/hangul'] 
+gsettings set org.freedesktop.ibus.general embed-preedit-text true 
+gsettings set org.freedesktop.ibus.general enable-by-default false 
+gsettings set org.freedesktop.ibus.general engines-order @as [] 
+gsettings set org.freedesktop.ibus.general preload-engines @as [] 
+gsettings set org.freedesktop.ibus.general switcher-delay-time 400 
+gsettings set org.freedesktop.ibus.general use-global-engine true 
+gsettings set org.freedesktop.ibus.general use-system-keyboard-layout false 
+gsettings set org.freedesktop.ibus.general use-xmodmap true 
+gsettings set org.freedesktop.ibus.general version '' 
+gsettings set org.freedesktop.ibus.general xkb-latin-layouts ['af', 'af(fa-olpc)', 'af(ps-olpc)', 'af(ps)', 'af(uz)', 'af(uz-olpc)', 'am', 'am(eastern)', 'am(eastern-alt)', 'am(phonetic)', 'am(phonetic-alt)', 'am(western)', 'ara', 'ara(azerty)', 'ara(azerty_digits)', 'ara(buckwalter)', 'ara(digits)', 'ara(qwerty)', 'ara(qwerty_digits)', 'az(cyrillic)', 'bd', 'bd(probhat)', 'bg', 'bg(bas_phonetic)', 'bg(phonetic)', 'brai', 'brai(left_hand)', 'brai(right_hand)', 'bt', 'by', 'by(phonetic)', 'by(legacy)', 'ca(ike)', 'cn(tib)', 'cn(tib_asciinum)', 'cn(ug)', 'cz', 'cz(ucw)', 'de(ru)', 'dev', 'et', 'fr(geo)', 'ge', 'ge(os)', 'gr', 'gr(extended)', 'gr(nodeadkeys)', 'gr(polytonic)', 'gr(simple)', 'gur', 'il', 'il(biblical)', 'il(lyx)', 'il(phonetic)', 'id(melayu-phonetic)', 'id(melayu-phoneticx)', 'id(pegon-phonetic)', 'in', 'in(ben)', 'in(ben_baishakhi)', 'in(ben_bornona)', 'in(ben_gitanjali)', 'in(ben_inscript)', 'in(ben_probhat)', 'in(bolnagri)', 'in(deva)', 'in(guj)', 'in(guj-kagapa)', 'in(guru)', 'in(hin-kagapa)', 'in(hin-wx)', 'in(jhelum)', 'in(kan)', 'in(kan-kagapa)', 'in(mal)', 'in(mal_enhanced)', 'in(mal_lalitha)', 'in(mar-kagapa)', 'in(ori)', 'in(san-kagapa)', 'in(tam)', 'in(tamilnet)', 'in(tamilnet_TAB)', 'in(tamilnet_TSCII)', 'in(tamilnet_tamilnumbers)', 'in(tam_tamilnumbers)', 'in(tel)', 'in(tel-kagapa)', 'in(urd-phonetic)', 'in(urd-phonetic3)', 'in(urd-winkeys)', 'iq', 'ir', 'ir(azb)', 'ir(pes_keypad)', 'jp(kana)', 'jp(mac)', 'kg', 'kg(phonetic)', 'kh', 'kz', 'kz(kazrus)', 'kz(ruskaz)', 'la', 'la(stea)', 'lk', 'lk(tam_TAB)', 'lk(tam_unicode)', 'lv(modern-cyr)', 'ma', 'ma(tifinagh)', 'ma(tifinagh-alt)', 'ma(tifinagh-alt-phonetic)', 'ma(tifinagh-extended)', 'ma(tifinagh-extended-phonetic)', 'ma(tifinagh-phonetic)', 'me(cyrillic)', 'me(cyrillicalternatequotes)', 'me(cyrillicyz)', 'mk', 'mk(nodeadkeys)', 'mm', 'mn', 'mv', 'np', 'ph(capewell-dvorak-bay)', 'ph(capewell-qwerf2k6-bay)', 'ph(colemak-bay)', 'ph(dvorak-bay)', 'ph(qwerty-bay)', 'pk', 'pk(ara)', 'pk(snd)', 'pk(urd-crulp)', 'pk(urd-nla)', 'pl(ru_phonetic_dvorak)', 'rs', 'rs(alternatequotes)', 'rs(rue)', 'rs(yz)', 'ru', 'ru(bak)', 'ru(chm)', 'ru(cv)', 'ru(dos)', 'ru(kom)', 'ru(legacy)', 'ru(mac)', 'ru(os_legacy)', 'ru(os_winkeys)', 'ru(phonetic)', 'ru(phonetic_winkeys)', 'ru(sah)', 'ru(srp)', 'ru(tt)', 'ru(typewriter)', 'ru(typewriter-legacy)', 'ru(udm)', 'ru(xal)', 'se(rus)', 'se(swl)', 'sy', 'sy(syc)', 'sy(syc_phonetic)', 'th', 'th(pat)', 'th(tis)', 'tj', 'tj(legacy)', 'tz', 'ua', 'ua(homophonic)', 'ua(legacy)', 'ua(phonetic)', 'ua(typewriter)', 'ua(winkeys)', 'us(chr)', 'us(rus)', 'uz'] 
+gsettings set org.freedesktop.ibus.general.hotkey disable-unconditional @as [] 
+gsettings set org.freedesktop.ibus.general.hotkey enable-unconditional @as [] 
+gsettings set org.freedesktop.ibus.general.hotkey next-engine ['Alt+Shift_L'] 
+gsettings set org.freedesktop.ibus.general.hotkey next-engine-in-menu ['Alt+Shift_L'] 
+gsettings set org.freedesktop.ibus.general.hotkey prev-engine @as [] 
+gsettings set org.freedesktop.ibus.general.hotkey previous-engine @as [] 
+gsettings set org.freedesktop.ibus.general.hotkey trigger ['Control+space', 'Zenkaku_Hankaku', 'Alt+Kanji', 'Alt+grave', 'Hangul', 'Alt+Release+Alt_R'] 
+gsettings set org.freedesktop.ibus.general.hotkey triggers ['<Super>space'] 
+gsettings set org.freedesktop.ibus.panel auto-hide-timeout 10000 
+gsettings set org.freedesktop.ibus.panel custom-font 'Sans 10' 
+gsettings set org.freedesktop.ibus.panel custom-icon 'Adwaita' 
+gsettings set org.freedesktop.ibus.panel custom-theme 'Adwaita' 
+gsettings set org.freedesktop.ibus.panel follow-input-cursor-when-always-shown false 
+gsettings set org.freedesktop.ibus.panel lookup-table-orientation 1 
+gsettings set org.freedesktop.ibus.panel property-icon-delay-time 500 
+gsettings set org.freedesktop.ibus.panel show 0 
+gsettings set org.freedesktop.ibus.panel show-icon-on-systray true 
+gsettings set org.freedesktop.ibus.panel show-im-name false 
+gsettings set org.freedesktop.ibus.panel use-custom-font false 
+gsettings set org.freedesktop.ibus.panel use-custom-icon false 
+gsettings set org.freedesktop.ibus.panel use-custom-theme false 
+gsettings set org.freedesktop.ibus.panel use-glyph-from-engine-lang true 
+gsettings set org.freedesktop.ibus.panel x -1 
+gsettings set org.freedesktop.ibus.panel xkb-icon-rgba '#51a2da' 
+gsettings set org.freedesktop.ibus.panel y -1 
+gsettings set org.freedesktop.ibus.panel.emoji favorite-annotations @as [] 
+gsettings set org.freedesktop.ibus.panel.emoji favorites @as [] 
+gsettings set org.freedesktop.ibus.panel.emoji font 'Monospace 16' 
+gsettings set org.freedesktop.ibus.panel.emoji has-partial-match false 
+gsettings set org.freedesktop.ibus.panel.emoji hotkey ['<Super>period', '<Super>semicolon'] 
+gsettings set org.freedesktop.ibus.panel.emoji lang 'en' 
+gsettings set org.freedesktop.ibus.panel.emoji load-emoji-at-startup true 
+gsettings set org.freedesktop.ibus.panel.emoji load-unicode-at-startup false 
+gsettings set org.freedesktop.ibus.panel.emoji partial-match-condition 0 
+gsettings set org.freedesktop.ibus.panel.emoji partial-match-length 3 
+gsettings set org.freedesktop.ibus.panel.emoji unicode-hotkey ['<Control><Shift>u'] 
+gsettings set org.gnome.Disks image-dir-uri '' 
+gsettings set org.gnome.Disks.benchmark do-write true 
+gsettings set org.gnome.Disks.benchmark num-access-samples 1000 
+gsettings set org.gnome.Disks.benchmark num-samples 100 
+gsettings set org.gnome.Disks.benchmark sample-size-mib 10 
+gsettings set org.gnome.Epiphany active-clear-data-items 5 
+gsettings set org.gnome.Epiphany ask-for-default true 
+gsettings set org.gnome.Epiphany content-filters ['https://easylist-downloads.adblockplus.org/easylist_min_content_blocker.json'] 
+gsettings set org.gnome.Epiphany default-search-engine 'DuckDuckGo' 
+gsettings set org.gnome.Epiphany enable-caret-browsing false 
+gsettings set org.gnome.Epiphany homepage-url '' 
+gsettings set org.gnome.Epiphany incognito-search-engine 'DuckDuckGo' 
+gsettings set org.gnome.Epiphany new-windows-in-tabs true 
+gsettings set org.gnome.Epiphany restore-session-delaying-loads true 
+gsettings set org.gnome.Epiphany restore-session-policy 'always' 
+gsettings set org.gnome.Epiphany search-engine-providers [{'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/?q=%s&t=epiphany&kd=-1'>, 'bang': <'!ddg'>, 'opensearch_url': <'https://duckduckgo.com/opensearch.xml'>, 'suggestions_url': <'https://duckduckgo.com/ac/?q=%s&type=list'>}, {'name': <'Google'>, 'url': <'https://www.google.com/search?q=%s'>, 'bang': <'!g'>, 'opensearch_url': <'https://www.google.com/searchdomaincheck?format=opensearch'>, 'suggestions_url': <'https://www.google.com/complete/search?q=%s&inputencoding=UTF-8&outputencoding=UTF-8&client=firefox'>}, {'name': <'Bing'>, 'url': <'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>, 'suggestions_url': <'https://www.bing.com/osjson.aspx?query=%s'>}] 
+gsettings set org.gnome.Epiphany start-in-incognito-mode false 
+gsettings set org.gnome.Epiphany use-search-suggestions true 
+gsettings set org.gnome.Epiphany warn-on-close-unsubmitted-data true 
+gsettings set org.gnome.Epiphany.lockdown disable-arbitrary-url false 
+gsettings set org.gnome.Epiphany.lockdown disable-bookmark-editing false 
+gsettings set org.gnome.Epiphany.lockdown disable-context-menu false 
+gsettings set org.gnome.Epiphany.lockdown disable-fullscreen false 
+gsettings set org.gnome.Epiphany.lockdown disable-history false 
+gsettings set org.gnome.Epiphany.lockdown disable-printing false 
+gsettings set org.gnome.Epiphany.lockdown disable-quit false 
+gsettings set org.gnome.Epiphany.lockdown disable-save-to-disk false 
+gsettings set org.gnome.Epiphany.reader color-scheme 'light' 
+gsettings set org.gnome.Epiphany.reader font-style 'sans' 
+gsettings set org.gnome.Epiphany.sync sync-accounts-server 'https://api.accounts.firefox.com/v1' 
+gsettings set org.gnome.Epiphany.sync sync-bookmarks-enabled false 
+gsettings set org.gnome.Epiphany.sync sync-bookmarks-initial true 
+gsettings set org.gnome.Epiphany.sync sync-bookmarks-time int64 0 
+gsettings set org.gnome.Epiphany.sync sync-device-id '' 
+gsettings set org.gnome.Epiphany.sync sync-device-name '' 
+gsettings set org.gnome.Epiphany.sync sync-frequency uint32 30 
+gsettings set org.gnome.Epiphany.sync sync-history-enabled false 
+gsettings set org.gnome.Epiphany.sync sync-history-initial true 
+gsettings set org.gnome.Epiphany.sync sync-history-time int64 0 
+gsettings set org.gnome.Epiphany.sync sync-open-tabs-enabled false 
+gsettings set org.gnome.Epiphany.sync sync-open-tabs-time int64 0 
+gsettings set org.gnome.Epiphany.sync sync-passwords-enabled false 
+gsettings set org.gnome.Epiphany.sync sync-passwords-initial true 
+gsettings set org.gnome.Epiphany.sync sync-passwords-time int64 0 
+gsettings set org.gnome.Epiphany.sync sync-time int64 0 
+gsettings set org.gnome.Epiphany.sync sync-token-server 'https://token.services.mozilla.com/1.0/sync/1.5' 
+gsettings set org.gnome.Epiphany.sync sync-user '' 
+gsettings set org.gnome.Epiphany.sync sync-with-firefox true 
+gsettings set org.gnome.Epiphany.ui bottom-url-bar false 
+gsettings set org.gnome.Epiphany.ui expand-tabs-bar true 
+gsettings set org.gnome.Epiphany.ui keep-window-open false 
+gsettings set org.gnome.Epiphany.ui tabs-bar-visibility-policy 'more-than-one' 
+gsettings set org.gnome.Epiphany.ui webkit-features-page false 
+gsettings set org.gnome.Epiphany.ui webkit-features-page-show-internal false 
+gsettings set org.gnome.Evolution.DefaultSources default-address-book 'system' 
+gsettings set org.gnome.Evolution.DefaultSources default-calendar 'system' 
+gsettings set org.gnome.Evolution.DefaultSources default-mail-account 'system' 
+gsettings set org.gnome.Evolution.DefaultSources default-mail-identity '' 
+gsettings set org.gnome.Evolution.DefaultSources default-memo-list 'system' 
+gsettings set org.gnome.Evolution.DefaultSources default-task-list 'system' 
+gsettings set org.gnome.GWeather4 default-location ('', 'KNYC', @m(dd) nothing) 
+gsettings set org.gnome.GWeather4 distance-unit 'default' 
+gsettings set org.gnome.GWeather4 pressure-unit 'default' 
+gsettings set org.gnome.GWeather4 speed-unit 'default' 
+gsettings set org.gnome.GWeather4 temperature-unit 'default' 
+gsettings set org.gnome.Ptyxis audible-bell false 
+gsettings set org.gnome.Ptyxis cursor-blink-mode 'system' 
+gsettings set org.gnome.Ptyxis cursor-shape 'block' 
+gsettings set org.gnome.Ptyxis default-columns uint32 80 
+gsettings set org.gnome.Ptyxis default-profile-uuid '1b2b3939872fa3fab3b402d66a21236e' 
+gsettings set org.gnome.Ptyxis default-rows uint32 24 
+gsettings set org.gnome.Ptyxis disable-padding false 
+gsettings set org.gnome.Ptyxis enable-a11y true 
+gsettings set org.gnome.Ptyxis font-name 'Monospace 10' 
+gsettings set org.gnome.Ptyxis ignore-osc-title false 
+gsettings set org.gnome.Ptyxis interface-style 'dark' 
+gsettings set org.gnome.Ptyxis new-tab-position 'last' 
+gsettings set org.gnome.Ptyxis profile-uuids ['1b2b3939872fa3fab3b402d66a21236e'] 
+gsettings set org.gnome.Ptyxis prompt-on-close true 
+gsettings set org.gnome.Ptyxis restore-session true 
+gsettings set org.gnome.Ptyxis restore-window-size true 
+gsettings set org.gnome.Ptyxis scrollbar-policy 'system' 
+gsettings set org.gnome.Ptyxis tab-middle-click 'close' 
+gsettings set org.gnome.Ptyxis text-blink-mode 'always' 
+gsettings set org.gnome.Ptyxis toast-on-copy-clipboard true 
+gsettings set org.gnome.Ptyxis use-system-font true 
+gsettings set org.gnome.Ptyxis visual-bell false 
+gsettings set org.gnome.Ptyxis visual-process-leader true 
+gsettings set org.gnome.Ptyxis window-size (uint32 92, uint32 45) 
+gsettings set org.gnome.Ptyxis word-char-exceptions @ms nothing 
+gsettings set org.gnome.Ptyxis.Shortcuts close-other-tabs '' 
+gsettings set org.gnome.Ptyxis.Shortcuts close-tab '<ctrl><shift>w' 
+gsettings set org.gnome.Ptyxis.Shortcuts close-window '<ctrl><shift>q' 
+gsettings set org.gnome.Ptyxis.Shortcuts copy-clipboard '<ctrl><shift>c' 
+gsettings set org.gnome.Ptyxis.Shortcuts detach-tab '' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-1 '<alt>1' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-10 '<alt>0' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-2 '<alt>2' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-3 '<alt>3' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-4 '<alt>4' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-5 '<alt>5' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-6 '<alt>6' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-7 '<alt>7' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-8 '<alt>8' 
+gsettings set org.gnome.Ptyxis.Shortcuts focus-tab-9 '<alt>9' 
+gsettings set org.gnome.Ptyxis.Shortcuts move-next-tab '<ctrl>Page_Down' 
+gsettings set org.gnome.Ptyxis.Shortcuts move-previous-tab '<ctrl>Page_Up' 
+gsettings set org.gnome.Ptyxis.Shortcuts move-tab-left '<ctrl><shift>Page_Up' 
+gsettings set org.gnome.Ptyxis.Shortcuts move-tab-right '<ctrl><shift>Page_Down' 
+gsettings set org.gnome.Ptyxis.Shortcuts new-tab '<ctrl><shift>t' 
+gsettings set org.gnome.Ptyxis.Shortcuts new-window '<ctrl><shift>n' 
+gsettings set org.gnome.Ptyxis.Shortcuts paste-clipboard '<ctrl><shift>v' 
+gsettings set org.gnome.Ptyxis.Shortcuts popup-menu '<shift>F10' 
+gsettings set org.gnome.Ptyxis.Shortcuts preferences '<ctrl>comma' 
+gsettings set org.gnome.Ptyxis.Shortcuts primary-menu 'F10' 
+gsettings set org.gnome.Ptyxis.Shortcuts reset '' 
+gsettings set org.gnome.Ptyxis.Shortcuts reset-and-clear '' 
+gsettings set org.gnome.Ptyxis.Shortcuts search '<ctrl><shift>f' 
+gsettings set org.gnome.Ptyxis.Shortcuts select-all '<ctrl><shift>a' 
+gsettings set org.gnome.Ptyxis.Shortcuts select-none '' 
+gsettings set org.gnome.Ptyxis.Shortcuts set-title '' 
+gsettings set org.gnome.Ptyxis.Shortcuts tab-menu '<alt>comma' 
+gsettings set org.gnome.Ptyxis.Shortcuts tab-overview '<ctrl><shift>o' 
+gsettings set org.gnome.Ptyxis.Shortcuts toggle-fullscreen 'F11' 
+gsettings set org.gnome.Ptyxis.Shortcuts undo-close-tab '<ctrl><shift><alt>t' 
+gsettings set org.gnome.Ptyxis.Shortcuts zoom-in '<ctrl>plus' 
+gsettings set org.gnome.Ptyxis.Shortcuts zoom-one '<ctrl>0' 
+gsettings set org.gnome.Ptyxis.Shortcuts zoom-out '<ctrl>minus' 
+gsettings set org.gnome.SessionManager logout-prompt true 
+gsettings set org.gnome.SessionManager show-fallback-warning true 
+gsettings set org.gnome.Settings last-panel 'keyboard' 
+gsettings set org.gnome.Settings show-development-warning true 
+gsettings set org.gnome.Settings window-state (980, 636, false) 
+gsettings set org.gnome.crypto.cache gpg-cache-method 'session' 
+gsettings set org.gnome.crypto.cache gpg-cache-ttl 300 
+gsettings set org.gnome.crypto.pgp ascii-armor true 
+gsettings set org.gnome.crypto.pgp default-key '' 
+gsettings set org.gnome.crypto.pgp encrypt-to-self true 
+gsettings set org.gnome.crypto.pgp keyservers ['ldap://keyserver.pgp.com', 'hkps://keys.openpgp.org'] 
+gsettings set org.gnome.crypto.pgp last-signer '' 
+gsettings set org.gnome.crypto.pgp sort-recipients-by 'name' 
+gsettings set org.gnome.desktop.a11y always-show-text-caret false 
+gsettings set org.gnome.desktop.a11y always-show-universal-access-status false 
+gsettings set org.gnome.desktop.a11y.applications screen-keyboard-enabled false 
+gsettings set org.gnome.desktop.a11y.applications screen-magnifier-enabled false 
+gsettings set org.gnome.desktop.a11y.applications screen-reader-enabled false 
+gsettings set org.gnome.desktop.a11y.interface high-contrast false 
+gsettings set org.gnome.desktop.a11y.interface show-status-shapes false 
+gsettings set org.gnome.desktop.a11y.keyboard bouncekeys-beep-reject false 
+gsettings set org.gnome.desktop.a11y.keyboard bouncekeys-delay 300 
+gsettings set org.gnome.desktop.a11y.keyboard bouncekeys-enable false 
+gsettings set org.gnome.desktop.a11y.keyboard disable-timeout 200 
+gsettings set org.gnome.desktop.a11y.keyboard enable false 
+gsettings set org.gnome.desktop.a11y.keyboard feature-state-change-beep false 
+gsettings set org.gnome.desktop.a11y.keyboard mousekeys-accel-time 300 
+gsettings set org.gnome.desktop.a11y.keyboard mousekeys-enable false 
+gsettings set org.gnome.desktop.a11y.keyboard mousekeys-init-delay 300 
+gsettings set org.gnome.desktop.a11y.keyboard mousekeys-max-speed 10 
+gsettings set org.gnome.desktop.a11y.keyboard slowkeys-beep-accept false 
+gsettings set org.gnome.desktop.a11y.keyboard slowkeys-beep-press false 
+gsettings set org.gnome.desktop.a11y.keyboard slowkeys-beep-reject false 
+gsettings set org.gnome.desktop.a11y.keyboard slowkeys-delay 300 
+gsettings set org.gnome.desktop.a11y.keyboard slowkeys-enable false 
+gsettings set org.gnome.desktop.a11y.keyboard stickykeys-enable false 
+gsettings set org.gnome.desktop.a11y.keyboard stickykeys-modifier-beep false 
+gsettings set org.gnome.desktop.a11y.keyboard stickykeys-two-key-off false 
+gsettings set org.gnome.desktop.a11y.keyboard timeout-enable false 
+gsettings set org.gnome.desktop.a11y.keyboard togglekeys-enable false 
+gsettings set org.gnome.desktop.a11y.magnifier brightness-blue 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier brightness-green 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier brightness-red 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier caret-tracking 'centered' 
+gsettings set org.gnome.desktop.a11y.magnifier color-saturation 1.0 
+gsettings set org.gnome.desktop.a11y.magnifier contrast-blue 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier contrast-green 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier contrast-red 0.0 
+gsettings set org.gnome.desktop.a11y.magnifier cross-hairs-clip false 
+gsettings set org.gnome.desktop.a11y.magnifier cross-hairs-color '#ff0000' 
+gsettings set org.gnome.desktop.a11y.magnifier cross-hairs-length 4096 
+gsettings set org.gnome.desktop.a11y.magnifier cross-hairs-opacity 0.66000000000000003 
+gsettings set org.gnome.desktop.a11y.magnifier cross-hairs-thickness 8 
+gsettings set org.gnome.desktop.a11y.magnifier focus-tracking 'proportional' 
+gsettings set org.gnome.desktop.a11y.magnifier invert-lightness false 
+gsettings set org.gnome.desktop.a11y.magnifier lens-mode false 
+gsettings set org.gnome.desktop.a11y.magnifier mag-factor 2.0 
+gsettings set org.gnome.desktop.a11y.magnifier mouse-tracking 'proportional' 
+gsettings set org.gnome.desktop.a11y.magnifier screen-position 'full-screen' 
+gsettings set org.gnome.desktop.a11y.magnifier scroll-at-edges false 
+gsettings set org.gnome.desktop.a11y.magnifier show-cross-hairs false 
+gsettings set org.gnome.desktop.a11y.mouse click-type-window-visible true 
+gsettings set org.gnome.desktop.a11y.mouse dwell-click-enabled false 
+gsettings set org.gnome.desktop.a11y.mouse dwell-gesture-double 'up' 
+gsettings set org.gnome.desktop.a11y.mouse dwell-gesture-drag 'down' 
+gsettings set org.gnome.desktop.a11y.mouse dwell-gesture-secondary 'right' 
+gsettings set org.gnome.desktop.a11y.mouse dwell-gesture-single 'left' 
+gsettings set org.gnome.desktop.a11y.mouse dwell-mode 'window' 
+gsettings set org.gnome.desktop.a11y.mouse dwell-threshold 10 
+gsettings set org.gnome.desktop.a11y.mouse dwell-time 1.2 
+gsettings set org.gnome.desktop.a11y.mouse secondary-click-enabled false 
+gsettings set org.gnome.desktop.a11y.mouse secondary-click-time 1.2 
+gsettings set org.gnome.desktop.app-folders folder-children ['Utilities', 'YaST', 'Pardus', '9e4e3178-5700-489c-9b60-b8549297ce28'] 
+gsettings set org.gnome.desktop.background color-shading-type 'solid' 
+gsettings set org.gnome.desktop.background picture-opacity 100 
+gsettings set org.gnome.desktop.background picture-options 'zoom' 
+gsettings set org.gnome.desktop.background picture-uri '/var/home/max-inspiron/.local/share/backgrounds/2026-06-05-09-47-47-beach_aerial_turquiose.jpg' 
+gsettings set org.gnome.desktop.background picture-uri-dark '/var/home/max-inspiron/.local/share/backgrounds/2026-06-04-10-13-41-background' 
+gsettings set org.gnome.desktop.background primary-color '#000000000000' 
+gsettings set org.gnome.desktop.background secondary-color '#000000000000' 
+gsettings set org.gnome.desktop.background show-desktop-icons false 
+gsettings set org.gnome.desktop.break-reminders selected-breaks @as [] 
+gsettings set org.gnome.desktop.break-reminders.eyesight countdown false 
+gsettings set org.gnome.desktop.break-reminders.eyesight delay-seconds uint32 180 
+gsettings set org.gnome.desktop.break-reminders.eyesight duration-seconds uint32 20 
+gsettings set org.gnome.desktop.break-reminders.eyesight fade-screen true 
+gsettings set org.gnome.desktop.break-reminders.eyesight interval-seconds uint32 1200 
+gsettings set org.gnome.desktop.break-reminders.eyesight lock-screen false 
+gsettings set org.gnome.desktop.break-reminders.eyesight notify true 
+gsettings set org.gnome.desktop.break-reminders.eyesight notify-overdue true 
+gsettings set org.gnome.desktop.break-reminders.eyesight notify-upcoming false 
+gsettings set org.gnome.desktop.break-reminders.eyesight play-sound true 
+gsettings set org.gnome.desktop.break-reminders.movement countdown false 
+gsettings set org.gnome.desktop.break-reminders.movement delay-seconds uint32 180 
+gsettings set org.gnome.desktop.break-reminders.movement duration-seconds uint32 300 
+gsettings set org.gnome.desktop.break-reminders.movement fade-screen true 
+gsettings set org.gnome.desktop.break-reminders.movement interval-seconds uint32 1800 
+gsettings set org.gnome.desktop.break-reminders.movement lock-screen false 
+gsettings set org.gnome.desktop.break-reminders.movement notify true 
+gsettings set org.gnome.desktop.break-reminders.movement notify-overdue true 
+gsettings set org.gnome.desktop.break-reminders.movement notify-upcoming true 
+gsettings set org.gnome.desktop.break-reminders.movement play-sound true 
+gsettings set org.gnome.desktop.calendar show-weekdate false 
+gsettings set org.gnome.desktop.datetime automatic-timezone false 
+gsettings set org.gnome.desktop.default-applications.office.calendar exec 'evolution -c calendar' 
+gsettings set org.gnome.desktop.default-applications.office.calendar needs-term false 
+gsettings set org.gnome.desktop.default-applications.office.tasks exec 'evolution -c tasks' 
+gsettings set org.gnome.desktop.default-applications.office.tasks needs-term false 
+gsettings set org.gnome.desktop.default-applications.terminal exec 'xdg-terminal-exec' 
+gsettings set org.gnome.desktop.default-applications.terminal exec-arg '-x' 
+gsettings set org.gnome.desktop.file-sharing require-password 'never' 
+gsettings set org.gnome.desktop.input-sources current uint32 0 
+gsettings set org.gnome.desktop.input-sources mru-sources @a(ss) [] 
+gsettings set org.gnome.desktop.input-sources per-window false 
+gsettings set org.gnome.desktop.input-sources show-all-sources false 
+gsettings set org.gnome.desktop.input-sources sources [('xkb', 'de+nodeadkeys')] 
+gsettings set org.gnome.desktop.input-sources xkb-model 'pc105+inet' 
+gsettings set org.gnome.desktop.input-sources xkb-options ['lv3:menu_switch'] 
+gsettings set org.gnome.desktop.interface accent-color 'slate' 
+gsettings set org.gnome.desktop.interface avatar-directories @as [] 
+gsettings set org.gnome.desktop.interface can-change-accels false 
+gsettings set org.gnome.desktop.interface clock-format '12h' 
+gsettings set org.gnome.desktop.interface clock-show-date true 
+gsettings set org.gnome.desktop.interface clock-show-seconds false 
+gsettings set org.gnome.desktop.interface clock-show-weekday false 
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark' 
+gsettings set org.gnome.desktop.interface cursor-blink true 
+gsettings set org.gnome.desktop.interface cursor-blink-time 1200 
+gsettings set org.gnome.desktop.interface cursor-blink-timeout 10 
+gsettings set org.gnome.desktop.interface cursor-size 24 
+gsettings set org.gnome.desktop.interface cursor-theme 'Adwaita' 
+gsettings set org.gnome.desktop.interface document-font-name 'Adwaita Sans 12' 
+gsettings set org.gnome.desktop.interface enable-animations false 
+gsettings set org.gnome.desktop.interface enable-hot-corners true 
+gsettings set org.gnome.desktop.interface font-antialiasing 'grayscale' 
+gsettings set org.gnome.desktop.interface font-hinting 'slight' 
+gsettings set org.gnome.desktop.interface font-name 'Adwaita Sans 11' 
+gsettings set org.gnome.desktop.interface font-rendering 'automatic' 
+gsettings set org.gnome.desktop.interface font-rgba-order 'rgb' 
+gsettings set org.gnome.desktop.interface gtk-color-palette 'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90' 
+gsettings set org.gnome.desktop.interface gtk-color-scheme '' 
+gsettings set org.gnome.desktop.interface gtk-enable-primary-paste true 
+gsettings set org.gnome.desktop.interface gtk-im-module '' 
+gsettings set org.gnome.desktop.interface gtk-im-preedit-style 'callback' 
+gsettings set org.gnome.desktop.interface gtk-im-status-style 'callback' 
+gsettings set org.gnome.desktop.interface gtk-key-theme 'Default' 
+gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita' 
+gsettings set org.gnome.desktop.interface gtk-timeout-initial 200 
+gsettings set org.gnome.desktop.interface gtk-timeout-repeat 20 
+gsettings set org.gnome.desktop.interface icon-theme 'Adwaita' 
+gsettings set org.gnome.desktop.interface locate-pointer false 
+gsettings set org.gnome.desktop.interface menubar-accel 'F10' 
+gsettings set org.gnome.desktop.interface menubar-detachable false 
+gsettings set org.gnome.desktop.interface menus-have-tearoff false 
+gsettings set org.gnome.desktop.interface monospace-font-name 'Adwaita Mono 11' 
+gsettings set org.gnome.desktop.interface overlay-scrolling true 
+gsettings set org.gnome.desktop.interface scaling-factor uint32 0 
+gsettings set org.gnome.desktop.interface show-battery-percentage false 
+gsettings set org.gnome.desktop.interface text-scaling-factor 1.0 
+gsettings set org.gnome.desktop.interface toolbar-detachable false 
+gsettings set org.gnome.desktop.interface toolbar-icons-size 'large' 
+gsettings set org.gnome.desktop.interface toolbar-style 'both-horiz' 
+gsettings set org.gnome.desktop.interface toolkit-accessibility false 
+gsettings set org.gnome.desktop.lockdown disable-application-handlers false 
+gsettings set org.gnome.desktop.lockdown disable-command-line false 
+gsettings set org.gnome.desktop.lockdown disable-lock-screen false 
+gsettings set org.gnome.desktop.lockdown disable-log-out false 
+gsettings set org.gnome.desktop.lockdown disable-print-setup false 
+gsettings set org.gnome.desktop.lockdown disable-printing false 
+gsettings set org.gnome.desktop.lockdown disable-save-to-disk false 
+gsettings set org.gnome.desktop.lockdown disable-show-password false 
+gsettings set org.gnome.desktop.lockdown disable-user-switching false 
+gsettings set org.gnome.desktop.lockdown mount-removable-storage-devices-as-read-only false 
+gsettings set org.gnome.desktop.lockdown user-administration-disabled false 
+gsettings set org.gnome.desktop.media-handling automount true 
+gsettings set org.gnome.desktop.media-handling automount-open true 
+gsettings set org.gnome.desktop.media-handling autorun-never true 
+gsettings set org.gnome.desktop.media-handling autorun-x-content-ignore @as [] 
+gsettings set org.gnome.desktop.media-handling autorun-x-content-open-folder @as [] 
+gsettings set org.gnome.desktop.media-handling autorun-x-content-start-app ['x-content/unix-software', 'x-content/ostree-repository'] 
+gsettings set org.gnome.desktop.notifications application-children ['org-gnome-ptyxis', 'org-gnome-software', 'org-mozilla-firefox', 'gnome-about-panel', 'org-gnome-nautilus', 'gnome-power-panel', 'com-brave-browser', 'com-github-marktext-marktext', 'dev-zed-zed-preview'] 
+gsettings set org.gnome.desktop.notifications show-banners true 
+gsettings set org.gnome.desktop.notifications show-in-lock-screen true 
+gsettings set org.gnome.desktop.peripherals.keyboard delay uint32 500 
+gsettings set org.gnome.desktop.peripherals.keyboard numlock-state false 
+gsettings set org.gnome.desktop.peripherals.keyboard remember-numlock-state true 
+gsettings set org.gnome.desktop.peripherals.keyboard repeat true 
+gsettings set org.gnome.desktop.peripherals.keyboard repeat-interval uint32 30 
+gsettings set org.gnome.desktop.peripherals.mouse accel-profile 'default' 
+gsettings set org.gnome.desktop.peripherals.mouse double-click 400 
+gsettings set org.gnome.desktop.peripherals.mouse drag-threshold 8 
+gsettings set org.gnome.desktop.peripherals.mouse left-handed false 
+gsettings set org.gnome.desktop.peripherals.mouse middle-click-emulation false 
+gsettings set org.gnome.desktop.peripherals.mouse natural-scroll false 
+gsettings set org.gnome.desktop.peripherals.mouse speed 0.0 
+gsettings set org.gnome.desktop.peripherals.pointingstick accel-profile 'default' 
+gsettings set org.gnome.desktop.peripherals.pointingstick scroll-method 'default' 
+gsettings set org.gnome.desktop.peripherals.pointingstick speed 0.0 
+gsettings set org.gnome.desktop.peripherals.touchpad accel-profile 'default' 
+gsettings set org.gnome.desktop.peripherals.touchpad click-method 'fingers' 
+gsettings set org.gnome.desktop.peripherals.touchpad disable-while-typing true 
+gsettings set org.gnome.desktop.peripherals.touchpad edge-scrolling-enabled false 
+gsettings set org.gnome.desktop.peripherals.touchpad left-handed 'mouse' 
+gsettings set org.gnome.desktop.peripherals.touchpad middle-click-emulation false 
+gsettings set org.gnome.desktop.peripherals.touchpad natural-scroll true 
+gsettings set org.gnome.desktop.peripherals.touchpad send-events 'enabled' 
+gsettings set org.gnome.desktop.peripherals.touchpad speed -0.20000000000000004 
+gsettings set org.gnome.desktop.peripherals.touchpad tap-and-drag true 
+gsettings set org.gnome.desktop.peripherals.touchpad tap-and-drag-lock false 
+gsettings set org.gnome.desktop.peripherals.touchpad tap-button-map 'default' 
+gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true 
+gsettings set org.gnome.desktop.peripherals.touchpad two-finger-scrolling-enabled true 
+gsettings set org.gnome.desktop.peripherals.trackball accel-profile 'default' 
+gsettings set org.gnome.desktop.peripherals.trackball middle-click-emulation false 
+gsettings set org.gnome.desktop.peripherals.trackball scroll-wheel-emulation-button 0 
+gsettings set org.gnome.desktop.peripherals.trackball scroll-wheel-emulation-button-lock false 
+gsettings set org.gnome.desktop.privacy disable-camera false 
+gsettings set org.gnome.desktop.privacy disable-microphone false 
+gsettings set org.gnome.desktop.privacy disable-sound-output false 
+gsettings set org.gnome.desktop.privacy hide-identity false 
+gsettings set org.gnome.desktop.privacy old-files-age uint32 30 
+gsettings set org.gnome.desktop.privacy privacy-screen false 
+gsettings set org.gnome.desktop.privacy recent-files-max-age -1 
+gsettings set org.gnome.desktop.privacy remember-app-usage true 
+gsettings set org.gnome.desktop.privacy remember-recent-files true 
+gsettings set org.gnome.desktop.privacy remove-old-temp-files false 
+gsettings set org.gnome.desktop.privacy remove-old-trash-files false 
+gsettings set org.gnome.desktop.privacy report-technical-problems false 
+gsettings set org.gnome.desktop.privacy send-software-usage-stats false 
+gsettings set org.gnome.desktop.privacy show-full-name-in-top-bar true 
+gsettings set org.gnome.desktop.privacy usb-protection true 
+gsettings set org.gnome.desktop.privacy usb-protection-level 'lockscreen' 
+gsettings set org.gnome.desktop.remote-desktop.rdp enable false 
+gsettings set org.gnome.desktop.remote-desktop.rdp negotiate-port true 
+gsettings set org.gnome.desktop.remote-desktop.rdp port uint16 3389 
+gsettings set org.gnome.desktop.remote-desktop.rdp screen-share-mode 'mirror-primary' 
+gsettings set org.gnome.desktop.remote-desktop.rdp tls-cert '' 
+gsettings set org.gnome.desktop.remote-desktop.rdp tls-key '' 
+gsettings set org.gnome.desktop.remote-desktop.rdp view-only true 
+gsettings set org.gnome.desktop.remote-desktop.rdp.headless enable false 
+gsettings set org.gnome.desktop.remote-desktop.rdp.headless negotiate-port true 
+gsettings set org.gnome.desktop.remote-desktop.rdp.headless port uint16 3389 
+gsettings set org.gnome.desktop.remote-desktop.vnc auth-method 'prompt' 
+gsettings set org.gnome.desktop.remote-desktop.vnc enable false 
+gsettings set org.gnome.desktop.remote-desktop.vnc encryption ['tls-anon'] 
+gsettings set org.gnome.desktop.remote-desktop.vnc negotiate-port false 
+gsettings set org.gnome.desktop.remote-desktop.vnc port uint16 5900 
+gsettings set org.gnome.desktop.remote-desktop.vnc screen-share-mode 'mirror-primary' 
+gsettings set org.gnome.desktop.remote-desktop.vnc view-only true 
+gsettings set org.gnome.desktop.remote-desktop.vnc.headless enable false 
+gsettings set org.gnome.desktop.remote-desktop.vnc.headless negotiate-port false 
+gsettings set org.gnome.desktop.remote-desktop.vnc.headless port uint16 5900 
+gsettings set org.gnome.desktop.screen-time-limits daily-limit-enabled false 
+gsettings set org.gnome.desktop.screen-time-limits daily-limit-seconds uint32 28800 
+gsettings set org.gnome.desktop.screen-time-limits grayscale true 
+gsettings set org.gnome.desktop.screen-time-limits history-enabled true 
+gsettings set org.gnome.desktop.screensaver color-shading-type 'solid' 
+gsettings set org.gnome.desktop.screensaver embedded-keyboard-command '' 
+gsettings set org.gnome.desktop.screensaver embedded-keyboard-enabled false 
+gsettings set org.gnome.desktop.screensaver idle-activation-enabled true 
+gsettings set org.gnome.desktop.screensaver lock-delay uint32 0 
+gsettings set org.gnome.desktop.screensaver lock-enabled true 
+gsettings set org.gnome.desktop.screensaver logout-command '' 
+gsettings set org.gnome.desktop.screensaver logout-delay uint32 7200 
+gsettings set org.gnome.desktop.screensaver logout-enabled false 
+gsettings set org.gnome.desktop.screensaver picture-opacity 100 
+gsettings set org.gnome.desktop.screensaver picture-options 'zoom' 
+gsettings set org.gnome.desktop.screensaver picture-uri 'file:///var/home/max-inspiron/.local/share/backgrounds/2026-06-04-10-13-41-background' 
+gsettings set org.gnome.desktop.screensaver primary-color '#000000000000' 
+gsettings set org.gnome.desktop.screensaver restart-enabled false 
+gsettings set org.gnome.desktop.screensaver secondary-color '#000000000000' 
+gsettings set org.gnome.desktop.screensaver show-full-name-in-top-bar true 
+gsettings set org.gnome.desktop.screensaver status-message-enabled true 
+gsettings set org.gnome.desktop.screensaver user-switch-enabled true 
+gsettings set org.gnome.desktop.search-providers disable-external false 
+gsettings set org.gnome.desktop.search-providers disabled @as [] 
+gsettings set org.gnome.desktop.search-providers enabled @as [] 
+gsettings set org.gnome.desktop.search-providers sort-order ['org.gnome.Settings.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.Nautilus.desktop'] 
+gsettings set org.gnome.desktop.session idle-delay uint32 300 
+gsettings set org.gnome.desktop.session session-name 'gnome' 
+gsettings set org.gnome.desktop.sound allow-volume-above-100-percent false 
+gsettings set org.gnome.desktop.sound event-sounds true 
+gsettings set org.gnome.desktop.sound input-feedback-sounds false 
+gsettings set org.gnome.desktop.sound theme-name 'freedesktop' 
+gsettings set org.gnome.desktop.thumbnail-cache maximum-age 180 
+gsettings set org.gnome.desktop.thumbnail-cache maximum-size 512 
+gsettings set org.gnome.desktop.thumbnailers disable @as [] 
+gsettings set org.gnome.desktop.thumbnailers disable-all false 
+gsettings set org.gnome.desktop.wm.keybindings activate-window-menu @as [] 
+gsettings set org.gnome.desktop.wm.keybindings always-on-top @as [] 
+gsettings set org.gnome.desktop.wm.keybindings begin-move ['<Alt>F7'] 
+gsettings set org.gnome.desktop.wm.keybindings begin-resize ['<Alt>F8'] 
+gsettings set org.gnome.desktop.wm.keybindings close ['<Alt>F4'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-group ['<Alt>F6'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-group-backward ['<Shift><Alt>F6'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-panels ['<Control><Alt>Escape'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-panels-backward ['<Shift><Control><Alt>Escape'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-windows ['<Alt>Escape'] 
+gsettings set org.gnome.desktop.wm.keybindings cycle-windows-backward ['<Shift><Alt>Escape'] 
+gsettings set org.gnome.desktop.wm.keybindings lower @as [] 
+gsettings set org.gnome.desktop.wm.keybindings maximize ['<Super>Up'] 
+gsettings set org.gnome.desktop.wm.keybindings maximize-horizontally @as [] 
+gsettings set org.gnome.desktop.wm.keybindings maximize-vertically @as [] 
+gsettings set org.gnome.desktop.wm.keybindings minimize ['<Super>h'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-center @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-corner-ne @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-corner-nw @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-corner-se @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-corner-sw @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-monitor-down ['<Super><Shift>Down'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-monitor-left ['<Super><Shift>Left'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-monitor-right ['<Super><Shift>Right'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-monitor-up ['<Super><Shift>Up'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-side-e @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-side-n @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-side-s @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-side-w @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-1 ['<Super><Shift>Home'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-10 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-11 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-12 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-2 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-3 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-4 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-5 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-6 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-7 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-8 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-9 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-down ['<Control><Shift><Alt>Down'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-last ['<Super><Shift>End'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-left ['<Super><Shift>Page_Up', '<Super><Shift>KP_Prior', '<Super><Shift><Alt>Left', '<Control><Shift><Alt>Left'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-right ['<Super><Shift>Page_Down', '<Super><Shift>KP_Next', '<Super><Shift><Alt>Right', '<Control><Shift><Alt>Right'] 
+gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-up ['<Control><Shift><Alt>Up'] 
+gsettings set org.gnome.desktop.wm.keybindings panel-main-menu @as [] 
+gsettings set org.gnome.desktop.wm.keybindings panel-run-dialog ['<Alt>F2'] 
+gsettings set org.gnome.desktop.wm.keybindings raise @as [] 
+gsettings set org.gnome.desktop.wm.keybindings raise-or-lower @as [] 
+gsettings set org.gnome.desktop.wm.keybindings set-spew-mark @as [] 
+gsettings set org.gnome.desktop.wm.keybindings show-desktop @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-applications ['<Super>Tab', '<Alt>Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-applications-backward ['<Shift><Super>Tab', '<Shift><Alt>Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-group ['<Super>Above_Tab', '<Alt>Above_Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-group-backward ['<Shift><Super>Above_Tab', '<Shift><Alt>Above_Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-panels ['<Control><Alt>Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-panels-backward ['<Shift><Control><Alt>Tab'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 ['<Super>Home'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-11 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-12 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-down ['<Control><Alt>Down'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-last ['<Super>End'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left ['<Super>Page_Up', '<Super>KP_Prior', '<Super><Alt>Left', '<Control><Alt>Left'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right ['<Super>Page_Down', '<Super>KP_Next', '<Super><Alt>Right', '<Control><Alt>Right'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up ['<Control><Alt>Up'] 
+gsettings set org.gnome.desktop.wm.keybindings switch-windows @as [] 
+gsettings set org.gnome.desktop.wm.keybindings switch-windows-backward @as [] 
+gsettings set org.gnome.desktop.wm.keybindings toggle-above @as [] 
+gsettings set org.gnome.desktop.wm.keybindings toggle-fullscreen @as [] 
+gsettings set org.gnome.desktop.wm.keybindings toggle-maximized ['<Alt>F10'] 
+gsettings set org.gnome.desktop.wm.keybindings toggle-on-all-workspaces @as [] 
+gsettings set org.gnome.desktop.wm.keybindings unmaximize ['<Super>Down', '<Alt>F5'] 
+gsettings set org.gnome.desktop.wm.preferences action-double-click-titlebar 'toggle-maximize' 
+gsettings set org.gnome.desktop.wm.preferences action-middle-click-titlebar 'none' 
+gsettings set org.gnome.desktop.wm.preferences action-right-click-titlebar 'menu' 
+gsettings set org.gnome.desktop.wm.preferences audible-bell true 
+gsettings set org.gnome.desktop.wm.preferences auto-raise false 
+gsettings set org.gnome.desktop.wm.preferences auto-raise-delay 500 
+gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:close' 
+gsettings set org.gnome.desktop.wm.preferences disable-workarounds false 
+gsettings set org.gnome.desktop.wm.preferences focus-mode 'click' 
+gsettings set org.gnome.desktop.wm.preferences focus-new-windows 'smart' 
+gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Super>' 
+gsettings set org.gnome.desktop.wm.preferences num-workspaces 6 
+gsettings set org.gnome.desktop.wm.preferences raise-on-click true 
+gsettings set org.gnome.desktop.wm.preferences resize-with-right-button false 
+gsettings set org.gnome.desktop.wm.preferences theme 'Adwaita' 
+gsettings set org.gnome.desktop.wm.preferences titlebar-font 'Adwaita Sans Bold 11' 
+gsettings set org.gnome.desktop.wm.preferences titlebar-uses-system-font true 
+gsettings set org.gnome.desktop.wm.preferences visual-bell false 
+gsettings set org.gnome.desktop.wm.preferences visual-bell-type 'fullscreen-flash' 
+gsettings set org.gnome.desktop.wm.preferences workspace-names @as [] 
+gsettings set org.gnome.evolution-data-server autoconfig-directory '' 
+gsettings set org.gnome.evolution-data-server autoconfig-variables [''] 
+gsettings set org.gnome.evolution-data-server camel-cipher-load-photos true 
+gsettings set org.gnome.evolution-data-server camel-gpg-binary '' 
+gsettings set org.gnome.evolution-data-server camel-message-info-user-headers @as [] 
+gsettings set org.gnome.evolution-data-server camel-smtp-helo-argument '' 
+gsettings set org.gnome.evolution-data-server limit-operations-in-power-saver-mode false 
+gsettings set org.gnome.evolution-data-server migrated true 
+gsettings set org.gnome.evolution-data-server network-monitor-gio-name '' 
+gsettings set org.gnome.evolution-data-server oauth2-google-client-id '' 
+gsettings set org.gnome.evolution-data-server oauth2-google-client-secret '' 
+gsettings set org.gnome.evolution-data-server oauth2-outlook-client-id '' 
+gsettings set org.gnome.evolution-data-server oauth2-outlook-client-secret '' 
+gsettings set org.gnome.evolution-data-server oauth2-services-hint [''] 
+gsettings set org.gnome.evolution-data-server oauth2-yahoo-client-id '' 
+gsettings set org.gnome.evolution-data-server oauth2-yahoo-client-secret '' 
+gsettings set org.gnome.evolution-data-server.addressbook self-contact-uid '' 
+gsettings set org.gnome.evolution-data-server.calendar contacts-reminder-enabled false 
+gsettings set org.gnome.evolution-data-server.calendar contacts-reminder-interval 15 
+gsettings set org.gnome.evolution-data-server.calendar contacts-reminder-units 'minutes' 
+gsettings set org.gnome.evolution-data-server.calendar defall-reminder-enabled false 
+gsettings set org.gnome.evolution-data-server.calendar defall-reminder-interval 15 
+gsettings set org.gnome.evolution-data-server.calendar defall-reminder-units 'minutes' 
+gsettings set org.gnome.evolution-data-server.calendar delete-meeting-on-decline true 
+gsettings set org.gnome.evolution-data-server.calendar notify-completed-tasks true 
+gsettings set org.gnome.evolution-data-server.calendar notify-custom-snooze-times @as [] 
+gsettings set org.gnome.evolution-data-server.calendar notify-enable-audio true 
+gsettings set org.gnome.evolution-data-server.calendar notify-enable-display true 
+gsettings set org.gnome.evolution-data-server.calendar notify-last-snooze-from-start false 
+gsettings set org.gnome.evolution-data-server.calendar notify-last-snooze-minutes 5 
+gsettings set org.gnome.evolution-data-server.calendar notify-past-events false 
+gsettings set org.gnome.evolution-data-server.calendar notify-programs @as [] 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-height -1 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-on-top true 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-paned-position -1 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-width -1 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-x -1 
+gsettings set org.gnome.evolution-data-server.calendar notify-window-y -1 
+gsettings set org.gnome.evolution-data-server.calendar notify-with-tray true 
+gsettings set org.gnome.evolution-data-server.calendar reminders-past [''] 
+gsettings set org.gnome.evolution-data-server.calendar reminders-past-days 7 
+gsettings set org.gnome.evolution-data-server.calendar reminders-snoozed [''] 
+gsettings set org.gnome.evolution.eds-shell start-offline false 
+gsettings set org.gnome.evolution.shell.network-config authentication-password '' 
+gsettings set org.gnome.evolution.shell.network-config authentication-user '' 
+gsettings set org.gnome.evolution.shell.network-config autoconfig-url '' 
+gsettings set org.gnome.evolution.shell.network-config http-host '' 
+gsettings set org.gnome.evolution.shell.network-config http-port 0 
+gsettings set org.gnome.evolution.shell.network-config ignore-hosts @as [] 
+gsettings set org.gnome.evolution.shell.network-config proxy-type 0 
+gsettings set org.gnome.evolution.shell.network-config secure-host '' 
+gsettings set org.gnome.evolution.shell.network-config secure-port 0 
+gsettings set org.gnome.evolution.shell.network-config socks-host '' 
+gsettings set org.gnome.evolution.shell.network-config socks-port 0 
+gsettings set org.gnome.evolution.shell.network-config use-authentication false 
+gsettings set org.gnome.evolution.shell.network-config use-http-proxy false 
+gsettings set org.gnome.gnome-system-monitor cpu-colors [(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#da7af3327999'), (17, '#e86e7999f332'), (18, '#7999f332c4f3'), (19, '#f332a1787999')] 
+gsettings set org.gnome.gnome-system-monitor cpu-smooth-graph true 
+gsettings set org.gnome.gnome-system-monitor cpu-stacked-area-chart false 
+gsettings set org.gnome.gnome-system-monitor current-tab 'resources' 
+gsettings set org.gnome.gnome-system-monitor disk-read-color '#3584e4' 
+gsettings set org.gnome.gnome-system-monitor disk-write-color '#e66100' 
+gsettings set org.gnome.gnome-system-monitor disks-interval 5000 
+gsettings set org.gnome.gnome-system-monitor graph-data-points 60 
+gsettings set org.gnome.gnome-system-monitor graph-update-interval 1000 
+gsettings set org.gnome.gnome-system-monitor kill-dialog true 
+gsettings set org.gnome.gnome-system-monitor logarithmic-scale false 
+gsettings set org.gnome.gnome-system-monitor maximized false 
+gsettings set org.gnome.gnome-system-monitor mem-color '#e01b24' 
+gsettings set org.gnome.gnome-system-monitor net-in-color '#3584e4' 
+gsettings set org.gnome.gnome-system-monitor net-out-color '#e66100' 
+gsettings set org.gnome.gnome-system-monitor network-in-bits false 
+gsettings set org.gnome.gnome-system-monitor network-total-in-bits false 
+gsettings set org.gnome.gnome-system-monitor process-memory-in-iec false 
+gsettings set org.gnome.gnome-system-monitor resources-cpu-expanded true 
+gsettings set org.gnome.gnome-system-monitor resources-disk-expanded true 
+gsettings set org.gnome.gnome-system-monitor resources-mem-expanded true 
+gsettings set org.gnome.gnome-system-monitor resources-memory-in-iec false 
+gsettings set org.gnome.gnome-system-monitor resources-net-expanded true 
+gsettings set org.gnome.gnome-system-monitor show-all-fs false 
+gsettings set org.gnome.gnome-system-monitor show-dependencies false 
+gsettings set org.gnome.gnome-system-monitor show-whose-processes 'user' 
+gsettings set org.gnome.gnome-system-monitor smooth-refresh true 
+gsettings set org.gnome.gnome-system-monitor solaris-mode true 
+gsettings set org.gnome.gnome-system-monitor swap-color '#33d17a' 
+gsettings set org.gnome.gnome-system-monitor update-interval 3000 
+gsettings set org.gnome.gnome-system-monitor window-height 720 
+gsettings set org.gnome.gnome-system-monitor window-width 800 
+gsettings set org.gnome.gnome-system-monitor.disksview col-available-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-available-width 80 
+gsettings set org.gnome.gnome-system-monitor.disksview col-device-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-device-width 100 
+gsettings set org.gnome.gnome-system-monitor.disksview col-directory-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-directory-width 100 
+gsettings set org.gnome.gnome-system-monitor.disksview col-free-visible false 
+gsettings set org.gnome.gnome-system-monitor.disksview col-free-width 80 
+gsettings set org.gnome.gnome-system-monitor.disksview col-total-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-total-width 80 
+gsettings set org.gnome.gnome-system-monitor.disksview col-type-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-type-width 50 
+gsettings set org.gnome.gnome-system-monitor.disksview col-used-visible true 
+gsettings set org.gnome.gnome-system-monitor.disksview col-used-width 300 
+gsettings set org.gnome.gnome-system-monitor.disksview columns-order ['device', 'directory', 'type', 'total', 'free', 'available', 'used'] 
+gsettings set org.gnome.gnome-system-monitor.disksview sort-col 'directory' 
+gsettings set org.gnome.gnome-system-monitor.disksview sort-order 0 
+gsettings set org.gnome.gnome-system-monitor.memmapstree sort-col 0 
+gsettings set org.gnome.gnome-system-monitor.memmapstree sort-order 0 
+gsettings set org.gnome.gnome-system-monitor.openfilestree sort-col 0 
+gsettings set org.gnome.gnome-system-monitor.openfilestree sort-order 0 
+gsettings set org.gnome.gnome-system-monitor.proctree col-0-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-0-width 225 
+gsettings set org.gnome.gnome-system-monitor.proctree col-1-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-1-width 98 
+gsettings set org.gnome.gnome-system-monitor.proctree col-10-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-10-width 70 
+gsettings set org.gnome.gnome-system-monitor.proctree col-11-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-11-width 48 
+gsettings set org.gnome.gnome-system-monitor.proctree col-12-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-12-width 60 
+gsettings set org.gnome.gnome-system-monitor.proctree col-13-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-13-width 80 
+gsettings set org.gnome.gnome-system-monitor.proctree col-14-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-14-width 120 
+gsettings set org.gnome.gnome-system-monitor.proctree col-15-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-15-width 80 
+gsettings set org.gnome.gnome-system-monitor.proctree col-16-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-16-width 48 
+gsettings set org.gnome.gnome-system-monitor.proctree col-17-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-17-width 48 
+gsettings set org.gnome.gnome-system-monitor.proctree col-18-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-18-width 70 
+gsettings set org.gnome.gnome-system-monitor.proctree col-19-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-19-width 41 
+gsettings set org.gnome.gnome-system-monitor.proctree col-2-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-2-width 37 
+gsettings set org.gnome.gnome-system-monitor.proctree col-20-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-20-width 59 
+gsettings set org.gnome.gnome-system-monitor.proctree col-21-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-21-width 59 
+gsettings set org.gnome.gnome-system-monitor.proctree col-22-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-22-width 100 
+gsettings set org.gnome.gnome-system-monitor.proctree col-23-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-23-width 100 
+gsettings set org.gnome.gnome-system-monitor.proctree col-24-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-24-width 100 
+gsettings set org.gnome.gnome-system-monitor.proctree col-25-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-25-width 100 
+gsettings set org.gnome.gnome-system-monitor.proctree col-26-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-26-width 0 
+gsettings set org.gnome.gnome-system-monitor.proctree col-3-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-3-width 90 
+gsettings set org.gnome.gnome-system-monitor.proctree col-4-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-4-width 90 
+gsettings set org.gnome.gnome-system-monitor.proctree col-5-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-5-width 90 
+gsettings set org.gnome.gnome-system-monitor.proctree col-6-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-6-width 90 
+gsettings set org.gnome.gnome-system-monitor.proctree col-7-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-7-width 90 
+gsettings set org.gnome.gnome-system-monitor.proctree col-8-visible true 
+gsettings set org.gnome.gnome-system-monitor.proctree col-8-width 71 
+gsettings set org.gnome.gnome-system-monitor.proctree col-9-visible false 
+gsettings set org.gnome.gnome-system-monitor.proctree col-9-width 80 
+gsettings set org.gnome.gnome-system-monitor.proctree columns-order [0, 12] 
+gsettings set org.gnome.gnome-system-monitor.proctree sort-col 8 
+gsettings set org.gnome.gnome-system-monitor.proctree sort-order 0 
+gsettings set org.gnome.login-screen allowed-failures 3 
+gsettings set org.gnome.login-screen banner-message-enable false 
+gsettings set org.gnome.login-screen banner-message-path '' 
+gsettings set org.gnome.login-screen banner-message-source 'settings' 
+gsettings set org.gnome.login-screen banner-message-text '' 
+gsettings set org.gnome.login-screen disable-restart-buttons false 
+gsettings set org.gnome.login-screen disable-user-list false 
+gsettings set org.gnome.login-screen enable-password-authentication true 
+gsettings set org.gnome.login-screen fallback-logo '' 
+gsettings set org.gnome.login-screen logo '/usr/share/pixmaps/fedora-gdm-logo.png' 
+gsettings set org.gnome.mutter attach-modal-dialogs true 
+gsettings set org.gnome.mutter auto-maximize true 
+gsettings set org.gnome.mutter center-new-windows true 
+gsettings set org.gnome.mutter check-alive-timeout uint32 5000 
+gsettings set org.gnome.mutter draggable-border-width 10 
+gsettings set org.gnome.mutter dynamic-workspaces false 
+gsettings set org.gnome.mutter edge-tiling true 
+gsettings set org.gnome.mutter experimental-features ['scale-monitor-framebuffer', 'xwayland-native-scaling'] 
+gsettings set org.gnome.mutter focus-change-on-pointer-rest true 
+gsettings set org.gnome.mutter locate-pointer-key 'Control_L' 
+gsettings set org.gnome.mutter output-luminance @a(ssssud) [] 
+gsettings set org.gnome.mutter overlay-key 'Super' 
+gsettings set org.gnome.mutter workspaces-only-on-primary true 
+gsettings set org.gnome.mutter.keybindings cancel-input-capture ['<Super><Shift>Escape'] 
+gsettings set org.gnome.mutter.keybindings rotate-monitor ['XF86RotateWindows'] 
+gsettings set org.gnome.mutter.keybindings switch-monitor ['<Super>p', 'XF86Display'] 
+gsettings set org.gnome.mutter.keybindings toggle-tiled-left ['<Super>Left'] 
+gsettings set org.gnome.mutter.keybindings toggle-tiled-right ['<Super>Right'] 
+gsettings set org.gnome.mutter.wayland xwayland-allow-byte-swapped-clients false 
+gsettings set org.gnome.mutter.wayland xwayland-allow-grabs false 
+gsettings set org.gnome.mutter.wayland xwayland-disable-extension @as [] 
+gsettings set org.gnome.mutter.wayland xwayland-grab-access-rules @as [] 
+gsettings set org.gnome.mutter.wayland.keybindings restore-shortcuts ['<Super>Escape'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-1 ['<Primary><Alt>F1'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-10 ['<Primary><Alt>F10'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-11 ['<Primary><Alt>F11'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-12 ['<Primary><Alt>F12'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-2 ['<Primary><Alt>F2'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-3 ['<Primary><Alt>F3'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-4 ['<Primary><Alt>F4'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-5 ['<Primary><Alt>F5'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-6 ['<Primary><Alt>F6'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-7 ['<Primary><Alt>F7'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-8 ['<Primary><Alt>F8'] 
+gsettings set org.gnome.mutter.wayland.keybindings switch-to-session-9 ['<Primary><Alt>F9'] 
+gsettings set org.gnome.nautilus.compression default-compression-format 'zip' 
+gsettings set org.gnome.nautilus.icon-view captions ['none', 'none', 'none'] 
+gsettings set org.gnome.nautilus.icon-view default-zoom-level 'medium' 
+gsettings set org.gnome.nautilus.list-view default-column-order ['name', 'size', 'type', 'owner', 'group', 'permissions', 'mime_type', 'where', 'date_modified', 'date_modified_with_time', 'date_accessed', 'date_created', 'recency', 'starred'] 
+gsettings set org.gnome.nautilus.list-view default-visible-columns ['name', 'size', 'date_modified'] 
+gsettings set org.gnome.nautilus.list-view default-zoom-level 'small' 
+gsettings set org.gnome.nautilus.list-view use-tree-view false 
+gsettings set org.gnome.nautilus.preferences always-use-location-entry false 
+gsettings set org.gnome.nautilus.preferences click-policy 'double' 
+gsettings set org.gnome.nautilus.preferences date-time-format 'simple' 
+gsettings set org.gnome.nautilus.preferences default-folder-viewer 'list-view' 
+gsettings set org.gnome.nautilus.preferences default-sort-in-reverse-order false 
+gsettings set org.gnome.nautilus.preferences default-sort-order 'name' 
+gsettings set org.gnome.nautilus.preferences fts-enabled true 
+gsettings set org.gnome.nautilus.preferences install-mime-activation true 
+gsettings set org.gnome.nautilus.preferences migrated-gtk-settings true 
+gsettings set org.gnome.nautilus.preferences mouse-back-button uint32 8 
+gsettings set org.gnome.nautilus.preferences mouse-forward-button uint32 9 
+gsettings set org.gnome.nautilus.preferences mouse-use-extra-buttons true 
+gsettings set org.gnome.nautilus.preferences open-folder-on-dnd-hover true 
+gsettings set org.gnome.nautilus.preferences recursive-search 'local-only' 
+gsettings set org.gnome.nautilus.preferences search-filter-time-type 'last_modified' 
+gsettings set org.gnome.nautilus.preferences show-create-link false 
+gsettings set org.gnome.nautilus.preferences show-delete-permanently false 
+gsettings set org.gnome.nautilus.preferences show-directory-item-counts 'local-only' 
+gsettings set org.gnome.nautilus.preferences show-hidden-files false 
+gsettings set org.gnome.nautilus.preferences show-image-thumbnails 'local-only' 
+gsettings set org.gnome.nautilus.preferences thumbnail-limit uint64 50 
+gsettings set org.gnome.nautilus.window-state initial-size (1138, 787) 
+gsettings set org.gnome.nautilus.window-state initial-size-file-chooser (890, 550) 
+gsettings set org.gnome.nautilus.window-state maximized false 
+gsettings set org.gnome.settings-daemon.global-shortcuts applications @as [] 
+gsettings set org.gnome.settings-daemon.peripherals.smartcard removal-action 'none' 
+gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock false 
+gsettings set org.gnome.settings-daemon.plugins whitelisted-plugins ['all'] 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-enabled false 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-last-coordinates (91.0, 181.0) 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-schedule-automatic true 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-schedule-from 20.0 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-schedule-to 6.0 
+gsettings set org.gnome.settings-daemon.plugins.color night-light-temperature uint32 2700 
+gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold uint32 0 
+gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold uint32 0 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping donation-reminder-enabled true 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping donation-reminder-last-shown int64 1780585220702796 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping free-percent-notify 0.050000000000000003 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping free-percent-notify-again 0.01 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping free-size-gb-no-notify 1 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping ignore-paths @as [] 
+gsettings set org.gnome.settings-daemon.plugins.housekeeping min-notify-period 10 
+gsettings set org.gnome.settings-daemon.plugins.media-keys battery-status [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys battery-status-static ['XF86Battery'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys calculator [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys calculator-static ['XF86Calculator'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys control-center [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys control-center-static ['XF86Tools'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings @as [] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys decrease-text-size [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys eject [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys eject-static ['XF86Eject'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys email [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys email-static ['XF86Mail'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys help ['', '<Super>F1'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys hibernate [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys hibernate-static ['XF86Suspend', 'XF86Hibernate'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys home [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys home-static ['XF86Explorer'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys increase-text-size [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-down [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-down-static ['XF86KbdBrightnessDown'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-toggle [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-toggle-static ['XF86KbdLightOnOff'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-up [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys keyboard-brightness-up-static ['XF86KbdBrightnessUp'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys logout ['<Control><Alt>Delete'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys magnifier ['<Alt><Super>8'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys magnifier-zoom-in ['<Alt><Super>equal'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys magnifier-zoom-out ['<Alt><Super>minus'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys media [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys media-static ['XF86AudioMedia'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys mic-mute [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys mic-mute-static ['XF86AudioMicMute'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys next [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys next-static ['XF86AudioNext', '<Ctrl>XF86AudioNext'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys on-screen-keyboard [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys pause [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys pause-static ['XF86AudioPause'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys play [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys play-static ['XF86AudioPlay', '<Ctrl>XF86AudioPlay'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-forward [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-forward-static ['XF86AudioForward'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-random [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-random-static ['XF86AudioRandomPlay'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-repeat [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-repeat-static ['XF86AudioRepeat'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-rewind [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys playback-rewind-static ['XF86AudioRewind'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys power [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys power-static ['XF86PowerOff'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys previous [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys previous-static ['XF86AudioPrev', '<Ctrl>XF86AudioPrev'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys reboot [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rfkill [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rfkill-bluetooth [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rfkill-bluetooth-static ['XF86Bluetooth'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rfkill-static ['XF86WLAN', 'XF86UWB', 'XF86RFKill'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rotate-video-lock [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys rotate-video-lock-static ['<Super>o', 'XF86RotationLockToggle'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys screenreader ['<Alt><Super>s'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys screensaver ['<Super>l'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys screensaver-static ['XF86ScreenSaver'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys search [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys search-static ['XF86Search'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys shutdown [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys stop [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys stop-static ['XF86AudioStop'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys suspend [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys suspend-static ['XF86Sleep'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys toggle-contrast [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-off [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-off-static ['XF86TouchpadOff'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-on [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-on-static ['XF86TouchpadOn'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-toggle [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys touchpad-toggle-static ['XF86TouchpadToggle', '<Ctrl><Super>XF86TouchpadToggle'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down-precise [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down-precise-static ['<Shift>XF86AudioLowerVolume', '<Ctrl><Shift>XF86AudioLowerVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down-quiet [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down-quiet-static ['<Alt>XF86AudioLowerVolume', '<Alt><Ctrl>XF86AudioLowerVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-down-static ['XF86AudioLowerVolume', '<Ctrl>XF86AudioLowerVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-mute [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-mute-quiet [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-mute-quiet-static ['<Alt>XF86AudioMute'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-mute-static ['XF86AudioMute'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-step 6 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-precise [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-precise-static ['<Shift>XF86AudioRaiseVolume', '<Ctrl><Shift>XF86AudioRaiseVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-quiet [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-quiet-static ['<Alt>XF86AudioRaiseVolume', '<Alt><Ctrl>XF86AudioRaiseVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-static ['XF86AudioRaiseVolume', '<Ctrl>XF86AudioRaiseVolume'] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys www [''] 
+gsettings set org.gnome.settings-daemon.plugins.media-keys www-static ['XF86WWW'] 
+gsettings set org.gnome.settings-daemon.plugins.power ambient-enabled true 
+gsettings set org.gnome.settings-daemon.plugins.power idle-brightness 30 
+gsettings set org.gnome.settings-daemon.plugins.power idle-dim true 
+gsettings set org.gnome.settings-daemon.plugins.power power-button-action 'suspend' 
+gsettings set org.gnome.settings-daemon.plugins.power power-saver-profile-on-low-battery true 
+gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout 900 
+gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-type 'suspend' 
+gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout 900 
+gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-type 'suspend' 
+gsettings set org.gnome.settings-daemon.plugins.wwan unlock-sim false 
+gsettings set org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules @as [] 
+gsettings set org.gnome.settings-daemon.plugins.xsettings enabled-gtk-modules @as [] 
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides @a{sv} {} 
+gsettings set org.gnome.shell allow-extension-installation true 
+gsettings set org.gnome.shell always-show-log-out false 
+gsettings set org.gnome.shell app-picker-layout [{'org.gnome.DiskUtility.desktop': <{'position': <0>}>, 'org.gnome.Logs.desktop': <{'position': <1>}>, 'org.gnome.SystemMonitor.desktop': <{'position': <2>}>, 'org.fedoraproject.MediaWriter.desktop': <{'position': <3>}>, 'org.gnome.TextEditor.desktop': <{'position': <4>}>, 'Utilities': <{'position': <5>}>, '9e4e3178-5700-489c-9b60-b8549297ce28': <{'position': <6>}>, 'htop.desktop': <{'position': <7>}>, 'java-25-openjdk-jconsole.desktop': <{'position': <8>}>, 'com.github.marktext.marktext.desktop': <{'position': <9>}>}] 
+gsettings set org.gnome.shell command-history @as [] 
+gsettings set org.gnome.shell development-tools true 
+gsettings set org.gnome.shell disable-extension-version-validation false 
+gsettings set org.gnome.shell disable-user-extensions false 
+gsettings set org.gnome.shell disabled-extensions ['background-logo@fedorahosted.org', 'window-list@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com'] 
+gsettings set org.gnome.shell enabled-extensions ['Vitals@CoreCoding.com', 'soundbar@karthickk.gitlab.com', 'date-menu-formatter@marcinjakubowski.github.com', 'focus-follows-workspace@christopher.luebbemeier.gmail.com', 'search-light@icedman.github.com', 'just-perfection-desktop@just-perfection', 'gtk4-ding@smedius.gitlab.com', 'dash-to-dock@micxgx.gmail.com', 'blur-my-shell@aunetx'] 
+gsettings set org.gnome.shell favorite-apps ['org.gnome.Nautilus.desktop', 'org.kde.konsole.desktop', 'md.obsidian.Obsidian.desktop', 'dev.zed.Zed-Preview.desktop', 'texstudio.desktop', 'com.brave.Browser.desktop', 'org.gnome.baobab.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'org.gnome.Settings.desktop'] 
+gsettings set org.gnome.shell last-selected-power-profile 'performance' 
+gsettings set org.gnome.shell looking-glass-history @as [] 
+gsettings set org.gnome.shell remember-mount-password false 
+gsettings set org.gnome.shell welcome-dialog-last-shown-version '49.1' 
+gsettings set org.gnome.shell.app-switcher current-workspace-only false 
+gsettings set org.gnome.shell.extensions.apps-menu apps-menu-toggle-menu ['<Alt>F1'] 
+gsettings set org.gnome.shell.extensions.window-list display-all-workspaces false 
+gsettings set org.gnome.shell.extensions.window-list embed-previews true 
+gsettings set org.gnome.shell.extensions.window-list grouping-mode 'never' 
+gsettings set org.gnome.shell.extensions.window-list show-on-all-monitors false 
+gsettings set org.gnome.shell.keybindings focus-active-notification ['<Super>n'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-1 ['<Super><Control>1'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-2 ['<Super><Control>2'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-3 ['<Super><Control>3'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-4 ['<Super><Control>4'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-5 ['<Super><Control>5'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-6 ['<Super><Control>6'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-7 ['<Super><Control>7'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-8 ['<Super><Control>8'] 
+gsettings set org.gnome.shell.keybindings open-new-window-application-9 ['<Super><Control>9'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-cycle ['XF86MonBrightnessCycle'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-cycle-monitor ['<Shift>XF86MonBrightnessCycle'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-down ['XF86MonBrightnessDown'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-down-monitor ['<Shift>XF86MonBrightnessDown'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-up ['XF86MonBrightnessUp'] 
+gsettings set org.gnome.shell.keybindings screen-brightness-up-monitor ['<Shift>XF86MonBrightnessUp'] 
+gsettings set org.gnome.shell.keybindings screenshot ['<Shift>Print'] 
+gsettings set org.gnome.shell.keybindings screenshot-window ['<Alt>Print'] 
+gsettings set org.gnome.shell.keybindings shift-overview-down ['<Super><Alt>Down'] 
+gsettings set org.gnome.shell.keybindings shift-overview-up ['<Super><Alt>Up'] 
+gsettings set org.gnome.shell.keybindings show-screen-recording-ui ['<Ctrl><Shift><Alt>R'] 
+gsettings set org.gnome.shell.keybindings show-screenshot-ui ['Print'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-1 ['<Super>1'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-2 ['<Super>2'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-3 ['<Super>3'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-4 ['<Super>4'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-5 ['<Super>5'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-6 ['<Super>6'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-7 ['<Super>7'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-8 ['<Super>8'] 
+gsettings set org.gnome.shell.keybindings switch-to-application-9 ['<Super>9'] 
+gsettings set org.gnome.shell.keybindings toggle-application-view ['<Super>a'] 
+gsettings set org.gnome.shell.keybindings toggle-message-tray ['<Super>v', '<Super>m'] 
+gsettings set org.gnome.shell.keybindings toggle-overview @as [] 
+gsettings set org.gnome.shell.keybindings toggle-quick-settings ['<Super>s'] 
+gsettings set org.gnome.shell.weather automatic-location true 
+gsettings set org.gnome.shell.weather locations @av [] 
+gsettings set org.gnome.shell.window-switcher app-icon-mode 'both' 
+gsettings set org.gnome.shell.window-switcher current-workspace-only true 
+gsettings set org.gnome.shell.world-clocks locations @av [] 
+gsettings set org.gnome.software allow-updates true 
+gsettings set org.gnome.software check-timestamp int64 1780814121 
+gsettings set org.gnome.software compatible-projects ['GNOME', 'KDE', 'XFCE'] 
+gsettings set org.gnome.software download-updates true 
+gsettings set org.gnome.software download-updates-notify true 
+gsettings set org.gnome.software enable-repos-dialog true 
+gsettings set org.gnome.software external-appstream-system-wide false 
+gsettings set org.gnome.software external-appstream-urls @as [] 
+gsettings set org.gnome.software filter-default-branch true 
+gsettings set org.gnome.software first-run false 
+gsettings set org.gnome.software flatpak-purge-timestamp int64 1780856313 
+gsettings set org.gnome.software free-repos @as [] 
+gsettings set org.gnome.software free-repos-url '' 
+gsettings set org.gnome.software install-bundles-system-wide true 
+gsettings set org.gnome.software install-timestamp int64 1779840000 
+gsettings set org.gnome.software installed-page-show-size true 
+gsettings set org.gnome.software nonfree-software-uri 'https://en.wikipedia.org/wiki/Proprietary_software' 
+gsettings set org.gnome.software official-repos ['anaconda', 'fedora', 'fedora-debuginfo', 'fedora-source', 'koji-override-0', 'koji-override-1', 'rawhide', 'rawhide-debuginfo', 'rawhide-source', 'updates', 'updates-debuginfo', 'updates-source', 'updates-testing', 'updates-testing-debuginfo', 'updates-testing-source', 'fedora-modular', 'fedora-modular-debuginfo', 'fedora-modular-source', 'rawhide-modular', 'rawhide-modular-debuginfo', 'rawhide-modular-source', 'fedora-cisco-openh264', 'fedora-cisco-openh264-debuginfo'] 
+gsettings set org.gnome.software packagekit-historical-updates-timestamp uint64 0 
+gsettings set org.gnome.software packaging-format-preference ['flatpak:fedora-testing', 'flatpak:fedora', 'rpm'] 
+gsettings set org.gnome.software prompt-for-nonfree true 
+gsettings set org.gnome.software refresh-when-metered false 
+gsettings set org.gnome.software required-repos ['fedora', 'updates'] 
+gsettings set org.gnome.software review-karma-required 0 
+gsettings set org.gnome.software review-server 'https://odrs.gnome.org/1.0/reviews/api' 
+gsettings set org.gnome.software screenshot-cache-age-maximum uint32 2592000 
+gsettings set org.gnome.software security-timestamp int64 0 
+gsettings set org.gnome.software show-nonfree-ui true 
+gsettings set org.gnome.software show-only-free-apps false 
+gsettings set org.gnome.software show-only-verified-apps false 
+gsettings set org.gnome.software show-ratings false 
+gsettings set org.gnome.software show-upgrade-prerelease false 
+gsettings set org.gnome.software update-notification-timestamp int64 0 
+gsettings set org.gnome.software upgrade-notification-timestamp int64 1780556715 
+gsettings set org.gnome.system.dns_sd display-local 'merged' 
+gsettings set org.gnome.system.dns_sd extra-domains '' 
+gsettings set org.gnome.system.locale region '' 
+gsettings set org.gnome.system.location enabled false 
+gsettings set org.gnome.system.location max-accuracy-level 'exact' 
+gsettings set org.gnome.system.proxy autoconfig-url '' 
+gsettings set org.gnome.system.proxy ignore-hosts ['localhost', '127.0.0.0/8', '::1'] 
+gsettings set org.gnome.system.proxy mode 'none' 
+gsettings set org.gnome.system.proxy use-same-proxy true 
+gsettings set org.gnome.system.proxy.ftp host '' 
+gsettings set org.gnome.system.proxy.ftp port 0 
+gsettings set org.gnome.system.proxy.http authentication-password '' 
+gsettings set org.gnome.system.proxy.http authentication-user '' 
+gsettings set org.gnome.system.proxy.http enabled false 
+gsettings set org.gnome.system.proxy.http host '' 
+gsettings set org.gnome.system.proxy.http port 8080 
+gsettings set org.gnome.system.proxy.http use-authentication false 
+gsettings set org.gnome.system.proxy.https host '' 
+gsettings set org.gnome.system.proxy.https port 0 
+gsettings set org.gnome.system.proxy.socks host '' 
+gsettings set org.gnome.system.proxy.socks port 0 
+gsettings set org.gnome.system.smb display-mode 'disabled' 
+gsettings set org.gnome.system.smb workgroup '' 
+gsettings set org.gnome.system.wsdd display-mode 'merged' 
+gsettings set org.gnome.yelp show-cursor false 
+gsettings set org.gnome.yelp zoom-level 1.0 
+gsettings set org.gtk.Settings.ColorChooser custom-colors @a(dddd) [] 
+gsettings set org.gtk.Settings.ColorChooser selected-color (false, 1.0, 1.0, 1.0, 1.0) 
+gsettings set org.gtk.Settings.Debug enable-inspector-keybinding false 
+gsettings set org.gtk.Settings.Debug inspector-warning true 
+gsettings set org.gtk.Settings.EmojiChooser recent-emoji @a((auss)u) [] 
+gsettings set org.gtk.Settings.FileChooser clock-format '24h' 
+gsettings set org.gtk.Settings.FileChooser date-format 'regular' 
+gsettings set org.gtk.Settings.FileChooser expand-folders false 
+gsettings set org.gtk.Settings.FileChooser last-folder-uri '' 
+gsettings set org.gtk.Settings.FileChooser location-mode 'path-bar' 
+gsettings set org.gtk.Settings.FileChooser show-hidden false 
+gsettings set org.gtk.Settings.FileChooser show-size-column true 
+gsettings set org.gtk.Settings.FileChooser show-type-column true 
+gsettings set org.gtk.Settings.FileChooser sidebar-width 167 
+gsettings set org.gtk.Settings.FileChooser sort-column 'name' 
+gsettings set org.gtk.Settings.FileChooser sort-directories-first false 
+gsettings set org.gtk.Settings.FileChooser sort-order 'ascending' 
+gsettings set org.gtk.Settings.FileChooser startup-mode 'recent' 
+gsettings set org.gtk.Settings.FileChooser type-format 'category' 
+gsettings set org.gtk.Settings.FileChooser window-position (26, 23) 
+gsettings set org.gtk.Settings.FileChooser window-size (1231, 902) 
+gsettings set org.gtk.exampleapp font 'Monospace 12' 
+gsettings set org.gtk.exampleapp show-words false 
+gsettings set org.gtk.exampleapp transition 'none' 
+gsettings set org.gtk.gtk4.Inspector.Recorder dark false 
+gsettings set org.gtk.gtk4.Inspector.Recorder debug-nodes false 
+gsettings set org.gtk.gtk4.Inspector.Recorder highlight-sequences false 
+gsettings set org.gtk.gtk4.Inspector.Recorder record-events false 
+gsettings set org.gtk.gtk4.Settings.ColorChooser custom-colors [(1.0, 0.11764705926179886, 0.11764705926179886, 0.94999998807907104), (0.66340005397796631, 0.35666665434837341, 0.71333330869674683, 0.0), (1.0, 1.0, 1.0, 0.0)] 
+gsettings set org.gtk.gtk4.Settings.ColorChooser selected-color (true, 0.56078433990478516, 0.94117647409439087, 0.64313727617263794, 1.0) 
+gsettings set org.gtk.gtk4.Settings.Debug enable-inspector-keybinding true 
+gsettings set org.gtk.gtk4.Settings.Debug inspector-warning true 
+gsettings set org.gtk.gtk4.Settings.EmojiChooser recently-used-emoji @a((aussasasu)u) [] 
+gsettings set org.gtk.gtk4.Settings.FileChooser clock-format '24h' 
+gsettings set org.gtk.gtk4.Settings.FileChooser date-format 'regular' 
+gsettings set org.gtk.gtk4.Settings.FileChooser expand-folders false 
+gsettings set org.gtk.gtk4.Settings.FileChooser location-mode 'path-bar' 
+gsettings set org.gtk.gtk4.Settings.FileChooser show-hidden true 
+gsettings set org.gtk.gtk4.Settings.FileChooser show-size-column true 
+gsettings set org.gtk.gtk4.Settings.FileChooser show-type-column true 
+gsettings set org.gtk.gtk4.Settings.FileChooser sidebar-width -1 
+gsettings set org.gtk.gtk4.Settings.FileChooser sort-column 'name' 
+gsettings set org.gtk.gtk4.Settings.FileChooser sort-directories-first true 
+gsettings set org.gtk.gtk4.Settings.FileChooser sort-order 'ascending' 
+gsettings set org.gtk.gtk4.Settings.FileChooser startup-mode 'recent' 
+gsettings set org.gtk.gtk4.Settings.FileChooser type-format 'category' 
+gsettings set org.gtk.gtk4.Settings.FileChooser view-type 'list' 
+gsettings set org.gtk.gtk4.Settings.FileChooser window-position (-1, -1) 
+gsettings set org.gtk.gtk4.Settings.FileChooser window-size (-1, -1) 
